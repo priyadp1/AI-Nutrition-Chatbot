@@ -1,4 +1,4 @@
-const square = () => {
+const ChatSquare = () => {
     
 }
-export default square;
+export default ChatSquare;

@@ -1,9 +1,9 @@
-const FormField = (props: any) => {
+const FormField = ({ name, onChange }: { name: string; onChange: (e: React.ChangeEvent<HTMLInputElement>) => void }) => {
     return (
-        <>
-            <label htmlFor={props.name}>{props.name}</label>
-            <input id={props.name} name={props.name} type="text" required/>
-        </>
+        <div>
+            <label htmlFor={name}>{name}</label>
+            <input id={name} name={name} type="text" required onChange={onChange}/>
+        </div>
     )
 }
 export default FormField

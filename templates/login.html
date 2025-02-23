@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Login Page</title>
+    </head>
+    <body>
+        <form action="/login">
+            <input autocomplete="off" type="text" id="name" name="name">
+            <input type="password" id="pass" name="pass">
+            <input type="submit" name="Register">
+        </form>
+        <script>
+            function login(){
+                const name = document.getElementById("name").value
+                const pass = document.getElementById("pass").value
+
+                let requestBody = {
+                    name: name,
+                    pass: password
+                }
+
+            fetch("/login", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(requestBody)
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message || "Error logging in");
+            })
+            .catch(error => {
+                console.error("Error:", error);
+            });
+            }
+        </script>
+    </body>
+</html>

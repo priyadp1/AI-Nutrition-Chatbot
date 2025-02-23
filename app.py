@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import json
 from transformers import pipeline
 
@@ -6,6 +6,9 @@ from transformers import pipeline
 app = Flask(__name__)
 chatbot_model = pipeline("text-generation", model="gpt2" , tokenizer="gpt2")
 
+@app.route("/")
+def home():
+    return render_template("index.html")
 @app.route('/foods')
 def loadData():
      with open('food.json', 'r') as file:

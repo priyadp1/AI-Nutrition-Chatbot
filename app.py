@@ -1,3 +1,4 @@
+
 import sqlite3
 from flask import Flask, redirect, request, jsonify, render_template, session
 from flask_session import Session
@@ -16,7 +17,7 @@ Session(app)
 chatbot_model = pipeline("text-generation", model="gpt2" , tokenizer="gpt2")
 
 def initdb():
-    with sqlite3.connect("databases/meow.sqlite") as dbconn:
+    with sqlite3.connect("./meow.sqlite") as dbconn:
         dbconn.execute("""
         CREATE TABLE IF NOT EXISTS preferences(
             ID PRIMARY KEY,
@@ -29,7 +30,7 @@ def initdb():
 @app.route("/")
 def home():
     if not session.get("name"):
-        return redirect("login.html")
+        return redirect("/login")
     return render_template("index.html")
 
 @app.route("/login", methods=["POST", "GET"])
@@ -39,7 +40,7 @@ def login():
         session["name"] = request.form.get("name")
         username = request.form.get("name" , None)
         password = request.form.get("pass" , None)
-        with sqlite3.connect("databases/meow.sqlite") as dbconn:
+        with sqlite3.connect("./meow.sqlite") as dbconn:
             dbconn.execute("""
             CREATE TABLE IF NOT EXISTS login(
                 username TEXT PRIMARY KEY,
@@ -74,7 +75,7 @@ def personalize():
     carbs = foodRequest.get("carbs" , 0)
     fats = foodRequest.get("fats", 0)
     
-    with sqlite3.connect("databases/meow.sqlite") as dbconn:
+    with sqlite3.connect("./meow.sqlite") as dbconn:
         dbconn.execute("""
         INSERT INTO preferences
         VALUES (?,?,?,?,?,?,?)
@@ -96,7 +97,7 @@ def remember():
     if "name" in session:
         username = session["name"]
 
-        with sqlite3.connect("databases/meow.sqlite") as dbconn:
+        with sqlite3.connect("./meow.sqlite") as dbconn:
             cursor = dbconn.cursor()
             
             cursor.execute("SELECT * FROM preferences WHERE username = ?", (username,))

@@ -62,23 +62,30 @@ def logout():
 # POST request
 @app.route("/personalization", methods=['GET','POST'])
 def personalize():
-    if request.method=='POST':
-        foodRequest = request.get_json()
-        food = foodRequest.get("food" , "").lower()
-        vitamin = foodRequest.get("vitamins" , None)
-        mineral = foodRequest.get("minerals" , None)
-        protein = foodRequest.get("protein", 0)
-        carbs = foodRequest.get("carbs" , 0)
-        fats = foodRequest.get("fats", 0)
-        with sqlite3.connect("databases/meow.sqlite") as dbconn:
-            dbconn.execute("""
-            INSERT INTO preferences
-            VALUES (?,?,?,?,?,?)
-            """, (food,vitamin,mineral,protein,carbs,fats))
-            dbconn.commit()
-        return jsonify({"success":"Record added to database"}), 200
+    username = request.args.get("username")
+    if not username:
+        return jsonify({"success": False, "message": "User not logged in"})
+
+    row = ''
+    with sqlite3.connect("databases/meow.sqlite") as dbconn:
+        cursor = dbconn.cursor()
+        cursor.execute("SELECT * FROM preferences WHERE username = ?", (username,))
+        row = cursor.fetchone()
+
+    if row:
+        return jsonify({
+            "success": True,
+            "preferences": {
+                "food": row["food"],
+                "vitamins": row["vitamins"].split(",") if row["vitamins"] else [],
+                "minerals": row["minerals"].split(",") if row["minerals"] else [],
+                "protein": row["protein"],
+                "carbs": row["carbs"],
+                "fats": row["fats"]
+            }
+        })
     else:
-        return jsonify({"error":"Unauthorized HTTP method."}), 401
+        return jsonify({"success": False, "message": "No preferences found"})
 
 @app.route('/foods')
 def loadData():

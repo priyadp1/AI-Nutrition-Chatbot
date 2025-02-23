@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Nutrition Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .chat-container {
+            width: 50%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        #chatbox {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+            background: #fff;
+            border-radius: 5px;
+        }
+        input, button {
+            padding: 10px;
+            margin: 10px;
+            width: 80%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>AI Nutrition Chatbot</h2>
+        <div id="chatbox">
+            <p><strong>Bot:</strong> Hi! Tell me about your food preferences, and I will recommend something!</p>
+        </div>
+        <input type="text" id="userInput" placeholder="Enter food, vitamins, minerals...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        function sendMessage() {
+            let userInput = document.getElementById("userInput").value;
+            let chatbox = document.getElementById("chatbox");
+
+            if (userInput.trim() === "") return;
+
+            chatbox.innerHTML += `<p><strong>You:</strong> ${userInput}</p>`;
+            document.getElementById("userInput").value = "";
+
+            let requestBody = {
+                "food": userInput,
+                "vitamins": ["A"],
+                "minerals": ["Calcium"],
+                "protein": 2,
+                "carbs": 10,
+                "fats": 5
+            };
+
+            fetch("/recommend", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(requestBody)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.meals && data.meals.length > 0) {
+                    let responseText = `<strong>Bot:</strong> ${data.meals[0].ai_explanation}`;
+                    chatbox.innerHTML += `<p>${responseText}</p>`;
+                } else {
+                    chatbox.innerHTML += `<p><strong>Bot:</strong> No suitable meals found.</p>`;
+                }
+                chatbox.scrollTop = chatbox.scrollHeight;
+            })
+            .catch(error => {
+                chatbox.innerHTML += `<p><strong>Bot:</strong> Error connecting to the server.</p>`;
+                console.error("Error:", error);
+            });
+        }
+    </script>
+</body>
+</html>

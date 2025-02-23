@@ -1,22 +1,36 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import json
+
 app = Flask(__name__)
+CORS(app)
+
 @app.route('/foods')
 def loadData():
      with open('food.json', 'r') as file:
         data = json.load(file)
         return data if isinstance(data, list) else data.get("data", [])
+    
 def getData():
     return jsonify(loadData())
+
+# will modify back to post after testing
 @app.route('/recommend' , methods=['POST'])
 def getReccomendation():
     foodRequest = request.get_json()
+    print(foodRequest)
     food = foodRequest.get("food" , "").lower()
     vitamin = foodRequest.get("vitamins" , None)
     mineral = foodRequest.get("minerals" , None)
     protein = foodRequest.get("protein", 0)
     carbs = foodRequest.get("carbs" , 0)
     fats = foodRequest.get("fats", 0)
+    print(food)
+    print(vitamin)
+    print(mineral)
+    print(protein)
+    print(carbs)
+    print(fats)
     calories = (4 * carbs) + (4 * protein) + (9 * fats)
     vitamin_map = {
         "A": "Vitamin A - RAE",

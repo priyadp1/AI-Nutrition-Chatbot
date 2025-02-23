@@ -1,165 +1,123 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>AI Nutrition Helper</title>
-   <style>
-       body {
-           font-family: Arial, sans-serif;
-           background-color: #f4f4f4;
-           text-align: center;
-           padding: 20px;
-       }
-       .chat-container {
-           width: 50%;
-           margin: auto;
-           background: white;
-           padding: 20px;
-           border-radius: 10px;
-           box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-       }
-       #chatbox {
-           height: 300px;
-           overflow-y: auto;
-           border: 1px solid #ccc;
-           padding: 10px;
-           text-align: left;
-           background: #fff;
-           border-radius: 5px;
-       }
-       input, button {
-           padding: 10px;
-           margin: 10px;
-           width: 80%;
-           border: 1px solid #ccc;
-           border-radius: 5px;
-       }
-       #send {
-           background-color: #28a745;
-           color: white;
-           border: none;
-           cursor: pointer;
-       }
-       button:hover {
-           background-color: #218838;
-       }
-       .constr {
-           color: white;
-           background-color: #016191;
-           display: flex;
-           margin: auto;
-           text-align: center;
-       }
-       .label-field {
-           margin: auto;
-       }
-
-
-   </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Nutrition Helper</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .chat-container {
+            width: 50%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        #chatbox {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+            background: #fff;
+            border-radius: 5px;
+        }
+        input, button {
+            padding: 10px;
+            margin: 10px;
+            width: 80%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        #send {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .constr {
+            color: white;
+            background-color: #016191;
+            display: flex;
+            margin: auto;
+            text-align: center;
+        }
+        .label-field {
+            margin: auto;
+        }
+    </style>
 </head>
 <body>
-   <div class="chat-container">
-       <h2>AI Nutrition Helper</h2>
-       <div id="chatbox">
-           <p><strong>Bot:</strong> Hi! Tell me about your food preferences, and I will recommend something!</p>
-       </div>
-       <div class="label-field">
-       <h4>Dietary Preferences</h4>
-           <button class="constr">Low Carb</button>
-           <button class="constr">High Protein</button>
-           <button class="constr">Vegetarian</button>
-           <button class="constr">Keto</button>
-           <button class="constr">Gluten-free</button>
-           <button class="constr">Vegan</button>
-       </div>
-       <h4>Add Necessary Information</h4>
-       <div class="label-field">
-           <label for="ingredientInput">Ingredient</label>
-           <input type="text" id="ingredientInput" placeholder="Enter category name or press Enter to skip">
-       </div>
-       <div class="label-field">
-           <label for="vitaminsInput">Vitamins</label>
-           <input type="text" id="vitaminsInput" placeholder="Enter required vitamins (comma-separated) or press Enter to skip">
-       </div>
-       <div class="label-field">
-           <label for="mineralsInput">Minerals</label>
-           <input type="text" id="mineralsInput" placeholder="Enter required minerals (comma-separated) or press Enter to skip">
-       </div>
-       <div class="label-field">
-           <label for="proteinInput">Protein</label>
-           <input type="number" id="proteinInput" placeholder="Enter minimum protein">
-       </div>
-       <div class="label-field">
-           <label for="carbsInput">Carbs</label>
-           <input type="number" id="carbsInput" placeholder="Enter maximum carbs">
-       </div>
-       <div class="label-field">
-           <label for="fatsInput">Fats</label>
-           <input type="number" id="fatsInput" placeholder="Enter maximum fats">
-       </div>
-       <button id="send" onclick="sendMessage()">Send</button>
-   </div>
+    <div class="chat-container">
+        <h2>AI Nutrition Helper</h2>
+        <div id="chatbox">
+            <p><strong>Bot:</strong> Hi! Tell me about your food preferences, and I will recommend something!</p>
+        </div>
+        <div class="label-field">
+        <h4>Dietary Preferences</h4>
+        <button class="constr" onclick="handleDietClick('Low Carb')">Low Carb</button>
+        <button class="constr" onclick="handleDietClick('High Protein')">High Protein</button>
+        <button class="constr" onclick="handleDietClick('Vegetarian')">Vegetarian</button>
+        <button class="constr" onclick="handleDietClick('Keto')">Keto</button>
+        <button class="constr" onclick="handleDietClick('Gluten-free')">Gluten-free</button>
+        <button class="constr" onclick="handleDietClick('Vegan')">Vegan</button>
+        
+        </div>
+        <h4>Add Necessary Information</h4>
+        <div class="label-field">
+            <label for="ingredientInput">Ingredient</label>
+            <input class="enter-skip" type="text" id="ingredientInput" placeholder="Enter category name or press Enter to skip">
+        </div>
+        <div class="label-field">
+            <label for="vitaminInput">Vitamins</label>
+            <input class="enter-skip" type="text" id="vitaminsInput" placeholder="Enter required vitamins (comma-separated) or press Enter to skip">
+        </div>
+        <div class="label-field">
+            <label for="mineralsInput">Minerals</label>
+            <input class="enter-skip" type="text" id="mineralsInput" placeholder="Enter required minerals (comma-separated) or press Enter to skip">
+        </div>
+        <div class="label-field">
+            <label for="proteinInput">Protein</label>
+            <input type="number" id="proteinInput" placeholder="Enter minimum protein">
+        </div>
+        <div class="label-field">
+            <label for="carbsInput">Carbs</label>
+            <input type="number" id="carbsInput" placeholder="Enter maximum carbs">
+        </div>
+        <div class="label-field">
+            <label for="fatsInput">Fats</label>
+            <input type="number" id="fatsInput" placeholder="Enter maximum fats">
+        </div>
+        <button id="send" onclick="sendMessage()">Send</button>
+    </div>
 
-   <script>
-    // Primary function to handling requests and responses in regards to the chatbot
-       function sendMessage() {
-           let ingredient = document.getElementById("ingredientInput").value || null;
-           let vitamins = document.getElementById("vitaminsInput").value;
-           let minerals = document.getElementById("mineralsInput").value;
-           let protein = parseFloat(document.getElementById("proteinInput").value);
-           let carbs = parseFloat(document.getElementById("carbsInput").value);
-           let fats = parseFloat(document.getElementById("fatsInput").value);
-           let vitamin_list = vitamins.split(',').map(v => v.trim()).filter(v => v);
-           let mineral_list = minerals.split(',').map(m => m.trim()).filter(m => m);
-           let chatbox = document.getElementById("chatbox");
+    <script>
+        function handleDietClick(dietType){
+            const chatbox = document.getElementById("chatbox");
+            chatbox.innerHTML += `<p><strong>You:</strong> Selected diet preference: ${dietType}</p>`;;
+            sessionStorage.setItem('selectedDiet' , dietType)
+        }
+        function sendMessage() {
+            let ingredient = document.getElementById("ingredientInput").value || null;
+            let vitamins = document.getElementById("vitaminsInput").value;
+            let minerals = document.getElementById("mineralsInput").value;
+            let protein = parseFloat(document.getElementById("proteinInput").value);
+            let carbs = parseFloat(document.getElementById("carbsInput").value);
+            let fats = parseFloat(document.getElementById("fatsInput").value);
+            let vitamin_list = vitamins.split(',').map(v => v.trim()).filter(v => v);
+            let mineral_list = minerals.split(',').map(m => m.trim()).filter(m => m);
+            let chatbox = document.getElementById("chatbox");
 
-
-           chatbox.innerHTML += `<p><strong>You:</strong> Searching for foods with ${ingredient}, vitamins: ${vitamins}, minerals: ${minerals}, protein at least ${protein}, carbs up to ${carbs}, fats up to ${fats}.</p>`;
-
-
-           let requestBody = {
-               food: ingredient,
-               vitamins: vitamin_list,
-               minerals: mineral_list,
-               protein: protein,
-               carbs: carbs,
-               fats: fats
-           };
-
-
-           fetch("/recommend", {
-               method: "POST",
-               headers: {
-                   "Content-Type": "application/json"
-               },
-               body: JSON.stringify(requestBody)
-           })
-           .then(response => response.json())
-           .then(data => {
-               if (data.meals && data.meals.length > 0) {
-                   data.meals.forEach(meal => {
-                       chatbox.innerHTML += `<p><strong>Bot:</strong> ${meal.ai_explanation}</p>`;
-                   });
-               } else {
-                   chatbox.innerHTML += `<p><strong>Bot:</strong> No suitable meals found.</p>`;
-               }
-               chatbox.scrollTop = chatbox.scrollHeight;
-           })
-           .catch(error => {
-               chatbox.innerHTML += `<p><strong>Bot:</strong> Error connecting to the server.</p>`;
-               console.error("Error:", error);
-           });
-       }
-
-// Add users to the preferences sqlite database
-        function addUser(){
-            const ingredient = document.getElementById("ingredientInput")
-            const vitamin = document.getElementById("vitaminsInput")
-            const mineral = document.getElementById("mineralsInput")
-            const protein = document.getElementById("proteinInput")
-            const carbs = document.getElementById("carbsInput")
-            const fats = document.getElementById("fatsInput")
+            chatbox.innerHTML += `<p><strong>You:</strong> Searching for foods with ${ingredient}, vitamins: ${vitamins}, minerals: ${minerals}, protein at least ${protein}, carbs up to ${carbs}, fats up to ${fats}.</p>`;
 
             let requestBody = {
                 food: ingredient,
@@ -170,7 +128,7 @@
                 fats: fats
             };
 
-            fetch("/personalization", {
+            fetch("/recommend", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
@@ -179,16 +137,20 @@
             })
             .then(response => response.json())
             .then(data => {
-                alert(data.message || "Error adding user");
+                if (data.meals && data.meals.length > 0) {
+                    data.meals.forEach(meal => {
+                        chatbox.innerHTML += `<p><strong>Bot:</strong> ${meal.ai_explanation}</p>`;
+                    });
+                } else {
+                    chatbox.innerHTML += `<p><strong>Bot:</strong> No suitable meals found.</p>`;
+                }
+                chatbox.scrollTop = chatbox.scrollHeight;
             })
             .catch(error => {
+                chatbox.innerHTML += `<p><strong>Bot:</strong> Error connecting to the server.</p>`;
                 console.error("Error:", error);
             });
         }
-   </script>
+    </script>
 </body>
 </html>
-
-
-
-

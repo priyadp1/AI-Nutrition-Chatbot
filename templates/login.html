@@ -4,10 +4,12 @@
         <title>Login Page</title>
     </head>
     <body>
-        <form action="/login">
+        <form action="/login" method ="post">
+            <label for="name">Username</label>
             <input autocomplete="off" type="text" id="name" name="name">
+            <label for="pass">Password</label>
             <input type="password" id="pass" name="pass">
-            <input type="submit" name="Register">
+            <input type="submit" value="Submit">
         </form>
         <script>
             function login(){
@@ -16,7 +18,7 @@
 
                 let requestBody = {
                     name: name,
-                    pass: password
+                    pass: pass
                 }
 
             fetch("/login", {

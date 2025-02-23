@@ -66,26 +66,20 @@ def personalize():
     if not username:
         return jsonify({"success": False, "message": "User not logged in"})
 
-    row = ''
+    foodRequest = request.get_json()
+    food = foodRequest.get("food" , "").lower()
+    vitamin = foodRequest.get("vitamins" , None)
+    mineral = foodRequest.get("minerals" , None)
+    protein = foodRequest.get("protein", 0)
+    carbs = foodRequest.get("carbs" , 0)
+    fats = foodRequest.get("fats", 0)
+    
     with sqlite3.connect("databases/meow.sqlite") as dbconn:
-        cursor = dbconn.cursor()
-        cursor.execute("SELECT * FROM preferences WHERE username = ?", (username,))
-        row = cursor.fetchone()
+        dbconn.execute("""
+        INSERT INTO preferences
+        VALUES (?,?,?,?,?,?,?)
+        """, (username,food,vitamin,mineral,protein,carbs,fats))
 
-    if row:
-        return jsonify({
-            "success": True,
-            "preferences": {
-                "food": row["food"],
-                "vitamins": row["vitamins"].split(",") if row["vitamins"] else [],
-                "minerals": row["minerals"].split(",") if row["minerals"] else [],
-                "protein": row["protein"],
-                "carbs": row["carbs"],
-                "fats": row["fats"]
-            }
-        })
-    else:
-        return jsonify({"success": False, "message": "No preferences found"})
 
 @app.route('/foods')
 def loadData():

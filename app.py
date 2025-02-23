@@ -1,6 +1,11 @@
 from flask import Flask, request, jsonify
 import json
+from transformers import pipeline
+
+
 app = Flask(__name__)
+chatbot_model = pipeline("text-generation", model="gpt2" , tokenizer="gpt2")
+
 @app.route('/foods')
 def loadData():
      with open('food.json', 'r') as file:
@@ -50,8 +55,36 @@ def getReccomendation():
 ]
     if not filteredMeals:
         return jsonify({"message": "No meals found matching your criteria"}), 404
+    for meal in filteredMeals:
+        meal_description = f"{meal['Description']} is high in {', '.join(vitamin) if vitamin else 'various vitamins'} and {', '.join(mineral) if mineral else 'various minerals'}."
+
+        # Advanced Prompt Engineering (Example)
+        prompt = f"""
+        You are a registered dietitian. Explain why {meal['Description']} is a good meal choice, considering it is high in {', '.join(vitamin) if vitamin else 'various vitamins'} and {', '.join(mineral) if mineral else 'various minerals'}.  Be concise.
+        """
+
+        try:
+            response = chatbot_model(
+                prompt,
+                max_length=100,  # Adjust as needed
+                do_sample=True,
+                temperature=0.7,  # Adjust as needed
+                top_k=30,      # Adjust as needed
+                top_p=0.95,     # Adjust as needed
+                repetition_penalty=1.1 # Adjust as needed
+            )
+
+            # Correct way to access the generated text:
+            aiResponse = response[0]['generated_text'].strip()  # Crucial change
+
+            meal["ai_explanation"] = aiResponse
+
+        except Exception as e:
+            print(f"GPT-2 Error for {meal['Description']}: {e}")  # More informative error message
+            meal["ai_explanation"] = meal_description
 
     return jsonify({"meals": filteredMeals}), 200
+    
 
 
 

@@ -15,3 +15,6 @@ Using an SQLite database for user data management and incorporating advanced dat
 4. Transformers
 7. Pandas
 
+### Credits:
+1. OpenAI
+2. GPT-2

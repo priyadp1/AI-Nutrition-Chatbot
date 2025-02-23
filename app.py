@@ -1,36 +1,27 @@
 from flask import Flask, request, jsonify
-from flask_cors import CORS
 import json
+from transformers import pipeline
+
 
 app = Flask(__name__)
-CORS(app)
+chatbot_model = pipeline("text-generation", model="gpt2" , tokenizer="gpt2")
 
 @app.route('/foods')
 def loadData():
      with open('food.json', 'r') as file:
         data = json.load(file)
         return data if isinstance(data, list) else data.get("data", [])
-    
 def getData():
     return jsonify(loadData())
-
-# will modify back to post after testing
 @app.route('/recommend' , methods=['POST'])
 def getReccomendation():
     foodRequest = request.get_json()
-    print(foodRequest)
     food = foodRequest.get("food" , "").lower()
     vitamin = foodRequest.get("vitamins" , None)
     mineral = foodRequest.get("minerals" , None)
     protein = foodRequest.get("protein", 0)
     carbs = foodRequest.get("carbs" , 0)
     fats = foodRequest.get("fats", 0)
-    print(food)
-    print(vitamin)
-    print(mineral)
-    print(protein)
-    print(carbs)
-    print(fats)
     calories = (4 * carbs) + (4 * protein) + (9 * fats)
     vitamin_map = {
         "A": "Vitamin A - RAE",
@@ -64,8 +55,36 @@ def getReccomendation():
 ]
     if not filteredMeals:
         return jsonify({"message": "No meals found matching your criteria"}), 404
+    for meal in filteredMeals:
+        meal_description = f"{meal['Description']} is high in {', '.join(vitamin) if vitamin else 'various vitamins'} and {', '.join(mineral) if mineral else 'various minerals'}."
+
+        # Advanced Prompt Engineering (Example)
+        prompt = f"""
+        You are a registered dietitian. Explain why {meal['Description']} is a good meal choice, considering it is high in {', '.join(vitamin) if vitamin else 'various vitamins'} and {', '.join(mineral) if mineral else 'various minerals'}.  Be concise.
+        """
+
+        try:
+            response = chatbot_model(
+                prompt,
+                max_length=100,  # Adjust as needed
+                do_sample=True,
+                temperature=0.7,  # Adjust as needed
+                top_k=30,      # Adjust as needed
+                top_p=0.95,     # Adjust as needed
+                repetition_penalty=1.1 # Adjust as needed
+            )
+
+            # Correct way to access the generated text:
+            aiResponse = response[0]['generated_text'].strip()  # Crucial change
+
+            meal["ai_explanation"] = aiResponse
+
+        except Exception as e:
+            print(f"GPT-2 Error for {meal['Description']}: {e}")  # More informative error message
+            meal["ai_explanation"] = meal_description
 
     return jsonify({"meals": filteredMeals}), 200
+    
 
 
 

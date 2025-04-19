@@ -1,0 +1,7923 @@
+[
+  {
+    "Description": "Hummus, commercial",
+    "Data": {
+      "Protein": 7.35,
+      "Carbohydrate": 14.9,
+      "Fat.Total Lipid": 17.1,
+      "Vitamins": {
+        "Vitamin C": 0.0,
+        "Vitamin K": 17.2,
+        "Vitamin A - RAE": 1.0,
+        "Vitamin E": 1.74
+      },
+      "Major Minerals": {
+        "Iron": 2.41,
+        "Magnesium": 71.1,
+        "Calcium": 41.0,
+        "Potassium": 289,
+        "Zinc": 1.38
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomatoes, grape, raw",
+    "Data": {
+      "Protein": 0.83,
+      "Carbohydrate": 5.51,
+      "Fat.Total Lipid": 0.63,
+      "Vitamins": {
+        "Vitamin C": 27.2,
+        "Vitamin E": 0.98,
+        "Vitamin K": 4.2
+      },
+      "Major Minerals": {
+        "Calcium": 11.0,
+        "Iron": 0.33,
+        "Magnesium": 11.9,
+        "Potassium": 260,
+        "Zinc": 0.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, snap, green, canned, regular pack, drained solids",
+    "Data": {
+      "Protein": 1.04,
+      "Carbohydrate": 4.11,
+      "Fat.Total Lipid": 0.39,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Zinc": 0.19,
+        "Calcium": 36.0,
+        "Iron": 0.78,
+        "Magnesium": 12.7,
+        "Potassium": 97.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Frankfurter, beef, unheated",
+    "Data": {
+      "Protein": 11.7,
+      "Carbohydrate": 2.89,
+      "Fat.Total Lipid": 28.0,
+      "Vitamins": {
+        "Vitamin E": 0.51,
+        "Vitamin A - RAE": 3.0
+      },
+      "Major Minerals": {
+        "Calcium": 15.0,
+        "Potassium": 343,
+        "Zinc": 2.06,
+        "Iron": 1.14,
+        "Magnesium": 11.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, almonds, dry roasted, with salt added",
+    "Data": {
+      "Protein": 20.4,
+      "Carbohydrate": 16.2,
+      "Fat.Total Lipid": 57.8,
+      "Vitamins": {
+        "Vitamin C": 0.0,
+        "Vitamin E": 19.0,
+        "Vitamin A - RAE": 2.0,
+        "Vitamin K": 0.0
+      },
+      "Major Minerals": {
+        "Calcium": 273,
+        "Potassium": 684,
+        "Zinc": 2.8,
+        "Iron": 3.17,
+        "Magnesium": 258
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Kale, raw",
+    "Data": {
+      "Protein": 2.92,
+      "Carbohydrate": 4.42,
+      "Fat.Total Lipid": 1.49,
+      "Vitamins": {
+        "Vitamin A - RAE": 241,
+        "Vitamin K": 390,
+        "Vitamin C": 93.4,
+        "Vitamin E": 0.66
+      },
+      "Major Minerals": {
+        "Iron": 1.6,
+        "Magnesium": 32.7,
+        "Calcium": 254,
+        "Potassium": 348,
+        "Zinc": 0.39
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Egg, whole, raw, frozen, pasteurized",
+    "Data": {
+      "Protein": 12.3,
+      "Carbohydrate": 0.91,
+      "Fat.Total Lipid": 10.3,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Magnesium": 11.2,
+        "Potassium": 117,
+        "Zinc": 1.2,
+        "Iron": 1.77,
+        "Calcium": 55.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Egg, white, raw, frozen, pasteurized",
+    "Data": {
+      "Protein": 10.1,
+      "Carbohydrate": 0.74,
+      "Fat.Total Lipid": 0.16,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Potassium": 130,
+        "Zinc": 0.02,
+        "Magnesium": 10.6,
+        "Calcium": 9.0,
+        "Iron": 0.18
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Egg, white, dried",
+    "Data": {
+      "Protein": 79.9,
+      "Carbohydrate": 6.02,
+      "Fat.Total Lipid": 0.65,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 87.6,
+        "Calcium": 104,
+        "Potassium": 959,
+        "Zinc": 0.43
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Onion rings, breaded, par fried, frozen, prepared, heated in oven",
+    "Data": {
+      "Protein": 4.52,
+      "Carbohydrate": 36.3,
+      "Fat.Total Lipid": 14.4,
+      "Vitamins": {
+        "Vitamin E": 0.57,
+        "Vitamin C": 1.6
+      },
+      "Major Minerals": {
+        "Potassium": 135,
+        "Magnesium": 20.4,
+        "Iron": 1.14,
+        "Calcium": 28.0,
+        "Zinc": 0.59
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pickles, cucumber, dill or kosher dill",
+    "Data": {
+      "Protein": 0.48,
+      "Carbohydrate": 1.99,
+      "Fat.Total Lipid": 0.43,
+      "Vitamins": {
+        "Vitamin E": 0.12,
+        "Vitamin A - RAE": 4.0,
+        "Vitamin C": 2.1,
+        "Vitamin K": 16.8
+      },
+      "Major Minerals": {
+        "Calcium": 54.0,
+        "Potassium": 112,
+        "Zinc": 0.11,
+        "Iron": 0.23,
+        "Magnesium": 7.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, parmesan, grated",
+    "Data": {
+      "Protein": 29.6,
+      "Carbohydrate": 12.4,
+      "Fat.Total Lipid": 28.0,
+      "Vitamins": {
+        "Vitamin E": 0.51,
+        "Vitamin A - RAE": 228,
+        "Vitamin K": 1.7
+      },
+      "Major Minerals": {
+        "Calcium": 884,
+        "Potassium": 184,
+        "Zinc": 4.33,
+        "Iron": 0.45,
+        "Magnesium": 34.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, pasteurized process, American, vitamin D fortified",
+    "Data": {
+      "Protein": 18.0,
+      "Carbohydrate": 5.27,
+      "Fat.Total Lipid": 30.6,
+      "Vitamins": {
+        "Vitamin E": 0.79,
+        "Vitamin K": 3.2,
+        "Vitamin A - RAE": 300
+      },
+      "Major Minerals": {
+        "Calcium": 866,
+        "Potassium": 149,
+        "Zinc": 2.42,
+        "Iron": 0.48,
+        "Magnesium": 25.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Grapefruit juice, white, canned or bottled, unsweetened",
+    "Data": {
+      "Protein": 0.55,
+      "Carbohydrate": 7.59,
+      "Fat.Total Lipid": 0.7,
+      "Vitamins": {
+        "Vitamin C": 39.4,
+        "Vitamin E": 0.22
+      },
+      "Major Minerals": {
+        "Iron": 0.07,
+        "Magnesium": 9.6,
+        "Calcium": 16.0,
+        "Potassium": 141,
+        "Zinc": 0.04
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peaches, yellow, raw",
+    "Data": {
+      "Protein": 0.91,
+      "Carbohydrate": 10.1,
+      "Fat.Total Lipid": 0.27,
+      "Vitamins": {
+        "Vitamin C": 4.1,
+        "Vitamin K": 3.0,
+        "Vitamin A - RAE": 24.0
+      },
+      "Major Minerals": {
+        "Potassium": 122,
+        "Iron": 0.34,
+        "Magnesium": 8.0,
+        "Calcium": 4.0,
+        "Zinc": 0.23
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Seeds, sunflower seed kernels, dry roasted, with salt added",
+    "Data": {
+      "Protein": 21.0,
+      "Carbohydrate": 17.1,
+      "Fat.Total Lipid": 56.1,
+      "Vitamins": {
+        "Vitamin K": 1.2,
+        "Vitamin E": 19.6,
+        "Vitamin A - RAE": 1.0,
+        "Vitamin C": 0.0
+      },
+      "Major Minerals": {
+        "Calcium": 78.0,
+        "Potassium": 689,
+        "Zinc": 6.0,
+        "Iron": 5.21,
+        "Magnesium": 358
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Bread, white, commercially prepared",
+    "Data": {
+      "Protein": 9.43,
+      "Carbohydrate": 49.2,
+      "Fat.Total Lipid": 3.59,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 211,
+        "Potassium": 117,
+        "Zinc": 0.88,
+        "Iron": 3.36,
+        "Magnesium": 26.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Kale, frozen, cooked, boiled, drained, without salt",
+    "Data": {
+      "Protein": 2.94,
+      "Carbohydrate": 5.3,
+      "Fat.Total Lipid": 1.21,
+      "Vitamins": {
+        "Vitamin E": 1.61,
+        "Vitamin A - RAE": 146,
+        "Vitamin K": 418,
+        "Vitamin C": 17.8
+      },
+      "Major Minerals": {
+        "Calcium": 150,
+        "Potassium": 144,
+        "Zinc": 0.27,
+        "Iron": 0.84,
+        "Magnesium": 25.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mustard, prepared, yellow",
+    "Data": {
+      "Protein": 4.25,
+      "Carbohydrate": 5.3,
+      "Fat.Total Lipid": 3.38,
+      "Vitamins": {
+        "Vitamin E": 0.35,
+        "Vitamin C": 0.4,
+        "Vitamin A - RAE": 4.0,
+        "Vitamin K": 1.5
+      },
+      "Major Minerals": {
+        "Zinc": 0.64,
+        "Iron": 1.59,
+        "Magnesium": 47.7,
+        "Calcium": 63.0,
+        "Potassium": 150
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Kiwifruit, green, raw",
+    "Data": {
+      "Protein": 1.06,
+      "Carbohydrate": 14.0,
+      "Fat.Total Lipid": 0.44,
+      "Vitamins": {
+        "Vitamin C": 74.7,
+        "Vitamin K": 40.3,
+        "Vitamin E": 1.3,
+        "Vitamin A - RAE": 4.0
+      },
+      "Major Minerals": {
+        "Calcium": 35.0,
+        "Iron": 0.24,
+        "Magnesium": 15.7,
+        "Potassium": 198,
+        "Zinc": 0.14
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nectarines, raw",
+    "Data": {
+      "Protein": 1.06,
+      "Carbohydrate": 9.18,
+      "Fat.Total Lipid": 0.28,
+      "Vitamins": {
+        "Vitamin C": 2.9,
+        "Vitamin E": 0.61,
+        "Vitamin A - RAE": 21.0,
+        "Vitamin K": 2.0
+      },
+      "Major Minerals": {
+        "Potassium": 131,
+        "Calcium": 2.0,
+        "Zinc": 0.21,
+        "Iron": 0.3,
+        "Magnesium": 8.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, cheddar",
+    "Data": {
+      "Protein": 23.3,
+      "Carbohydrate": 2.44,
+      "Fat.Total Lipid": 34.0,
+      "Vitamins": {
+        "Vitamin A - RAE": 316,
+        "Vitamin E": 0.75,
+        "Vitamin K": 2.4
+      },
+      "Major Minerals": {
+        "Calcium": 707,
+        "Potassium": 77.0,
+        "Zinc": 3.67,
+        "Iron": 0.16,
+        "Magnesium": 26.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, cottage, lowfat, 2% milkfat",
+    "Data": {
+      "Protein": 11.0,
+      "Carbohydrate": 4.31,
+      "Fat.Total Lipid": 2.3,
+      "Vitamins": {
+        "Vitamin A - RAE": 69.0,
+        "Vitamin E": 0.08
+      },
+      "Major Minerals": {
+        "Calcium": 103,
+        "Potassium": 120,
+        "Zinc": 0.61,
+        "Iron": 0.13,
+        "Magnesium": 8.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, mozzarella, low moisture, part-skim",
+    "Data": {
+      "Protein": 23.7,
+      "Carbohydrate": 4.44,
+      "Fat.Total Lipid": 20.4,
+      "Vitamins": {
+        "Vitamin K": 1.3,
+        "Vitamin A - RAE": 203,
+        "Vitamin E": 0.51
+      },
+      "Major Minerals": {
+        "Magnesium": 27.2,
+        "Iron": 0.2,
+        "Calcium": 693,
+        "Potassium": 116,
+        "Zinc": 3.62
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Egg, whole, dried",
+    "Data": {
+      "Protein": 48.1,
+      "Carbohydrate": 1.87,
+      "Fat.Total Lipid": 39.8,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Potassium": 468,
+        "Zinc": 5.02,
+        "Iron": 6.97,
+        "Calcium": 220,
+        "Magnesium": 44.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Egg, yolk, raw, frozen, pasteurized",
+    "Data": {
+      "Protein": 15.6,
+      "Carbohydrate": 0.59,
+      "Fat.Total Lipid": 25.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Potassium": 102,
+        "Zinc": 2.93,
+        "Magnesium": 11.2,
+        "Calcium": 119,
+        "Iron": 4.13
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Egg, yolk, dried",
+    "Data": {
+      "Protein": 34.2,
+      "Carbohydrate": 1.07,
+      "Fat.Total Lipid": 55.5,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Magnesium": 26.0,
+        "Potassium": 231,
+        "Zinc": 7.11,
+        "Calcium": 270,
+        "Iron": 9.28
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Yogurt, Greek, plain, nonfat",
+    "Data": {
+      "Protein": 10.3,
+      "Carbohydrate": 3.64,
+      "Fat.Total Lipid": 0.37,
+      "Vitamins": {
+        "Vitamin K": 0.0,
+        "Vitamin A - RAE": 1.0,
+        "Vitamin E": 0.01
+      },
+      "Major Minerals": {
+        "Magnesium": 10.7,
+        "Iron": 0.07,
+        "Calcium": 111,
+        "Potassium": 141,
+        "Zinc": 0.53
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Yogurt, Greek, strawberry, nonfat",
+    "Data": {
+      "Protein": 8.06,
+      "Carbohydrate": 12.2,
+      "Fat.Total Lipid": 0.15,
+      "Vitamins": {
+        "Vitamin A - RAE": 0.0,
+        "Vitamin C": 0.2
+      },
+      "Major Minerals": {
+        "Calcium": 97.0,
+        "Potassium": 133,
+        "Zinc": 0.46,
+        "Iron": 0.09,
+        "Magnesium": 10.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, coconut",
+    "Data": {
+      "Protein": 0.0,
+      "Carbohydrate": 0.84,
+      "Fat.Total Lipid": 99.1,
+      "Vitamins": {
+        "Vitamin K": 0.6,
+        "Vitamin E": 0.11
+      },
+      "Major Minerals": {
+        "Iron": 0.05,
+        "Calcium": 1.0,
+        "Zinc": 0.02,
+        "Potassium": 0.0,
+        "Magnesium": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chicken, broilers or fryers, drumstick, meat only, cooked, braised",
+    "Data": {
+      "Protein": 23.9,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 5.95,
+      "Vitamins": {
+        "Vitamin A - RAE": 7.0,
+        "Vitamin E": 0.17
+      },
+      "Major Minerals": {
+        "Iron": 0.94,
+        "Magnesium": 22.4,
+        "Calcium": 12.0,
+        "Potassium": 239,
+        "Zinc": 2.54
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+    "Data": {
+      "Protein": 32.1,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 3.24,
+      "Vitamins": {
+        "Vitamin E": 0.33
+      },
+      "Major Minerals": {
+        "Calcium": 6.0,
+        "Potassium": 343,
+        "Zinc": 0.96,
+        "Iron": 0.49,
+        "Magnesium": 32.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+    "Data": {
+      "Protein": 1.41,
+      "Carbohydrate": 8.05,
+      "Fat.Total Lipid": 1.48,
+      "Vitamins": {
+        "Vitamin A - RAE": 32.0
+      },
+      "Major Minerals": {
+        "Magnesium": 18.5,
+        "Zinc": 0.2,
+        "Calcium": 27.0,
+        "Potassium": 319,
+        "Iron": 0.78
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+    "Data": {
+      "Protein": 16.7,
+      "Carbohydrate": 0.27,
+      "Fat.Total Lipid": 3.73,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.58,
+        "Magnesium": 18.8,
+        "Potassium": 425,
+        "Zinc": 1.52,
+        "Calcium": 5.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Olives, green, Manzanilla, stuffed with pimiento",
+    "Data": {
+      "Protein": 1.15,
+      "Carbohydrate": 4.96,
+      "Fat.Total Lipid": 12.9,
+      "Vitamins": {
+        "Vitamin K": 16.6,
+        "Vitamin E": 3.78,
+        "Vitamin C": 0.0,
+        "Vitamin A - RAE": 25.0
+      },
+      "Major Minerals": {
+        "Potassium": 43.0,
+        "Zinc": 0.09,
+        "Calcium": 121,
+        "Iron": 0.31,
+        "Magnesium": 12.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cookies, oatmeal, soft, with raisins",
+    "Data": {
+      "Protein": 5.79,
+      "Carbohydrate": 69.6,
+      "Fat.Total Lipid": 14.3,
+      "Vitamins": {
+        "Vitamin E": 2.69,
+        "Vitamin K": 17.1
+      },
+      "Major Minerals": {
+        "Calcium": 29.0,
+        "Iron": 2.28,
+        "Magnesium": 32.4,
+        "Potassium": 245,
+        "Zinc": 0.62
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomatoes, canned, red, ripe, diced",
+    "Data": {
+      "Protein": 0.84,
+      "Carbohydrate": 3.32,
+      "Fat.Total Lipid": 0.5,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 30.0,
+        "Iron": 0.57,
+        "Magnesium": 9.8,
+        "Potassium": 198,
+        "Zinc": 0.12
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, haddock, raw",
+    "Data": {
+      "Protein": 16.3,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 0.45,
+      "Vitamins": {
+        "Vitamin E": 0.45
+      },
+      "Major Minerals": {
+        "Calcium": 11.0,
+        "Potassium": 286,
+        "Zinc": 0.32,
+        "Iron": 0.17,
+        "Magnesium": 21.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, pollock, raw",
+    "Data": {
+      "Protein": 12.3,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 0.41,
+      "Vitamins": {
+        "Vitamin E": 0.49,
+        "Vitamin C": 0.0,
+        "Vitamin K": 0.0,
+        "Vitamin A - RAE": 3.0
+      },
+      "Major Minerals": {
+        "Calcium": 15.0,
+        "Potassium": 160,
+        "Zinc": 0.31,
+        "Iron": 0.22,
+        "Magnesium": 16.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, tuna, light, canned in water, drained solids",
+    "Data": {
+      "Protein": 19.0,
+      "Carbohydrate": 0.08,
+      "Fat.Total Lipid": 0.94,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 18.0,
+        "Potassium": 176,
+        "Zinc": 0.66,
+        "Iron": 1.67,
+        "Magnesium": 22.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Restaurant, Chinese, fried rice, without meat",
+    "Data": {
+      "Protein": 3.84,
+      "Carbohydrate": 32.5,
+      "Fat.Total Lipid": 3.19,
+      "Vitamins": {
+        "Vitamin A - RAE": 22.0
+      },
+      "Major Minerals": {
+        "Magnesium": 9.7,
+        "Calcium": 11.0,
+        "Potassium": 69.0,
+        "Zinc": 0.69,
+        "Iron": 0.46
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Restaurant, Latino, tamale, pork",
+    "Data": {
+      "Protein": 7.38,
+      "Carbohydrate": 15.8,
+      "Fat.Total Lipid": 9.04,
+      "Vitamins": {
+        "Vitamin A - RAE": 12.0,
+        "Vitamin K": 5.1,
+        "Vitamin E": 0.53
+      },
+      "Major Minerals": {
+        "Iron": 0.87,
+        "Magnesium": 26.2,
+        "Calcium": 75.0,
+        "Potassium": 152,
+        "Zinc": 1.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Restaurant, Latino, pupusas con frijoles (pupusas, bean)",
+    "Data": {
+      "Protein": 5.59,
+      "Carbohydrate": 31.5,
+      "Fat.Total Lipid": 9.01,
+      "Vitamins": {
+        "Vitamin K": 7.4,
+        "Vitamin E": 0.36
+      },
+      "Major Minerals": {
+        "Iron": 1.46,
+        "Magnesium": 53.6,
+        "Calcium": 51.0,
+        "Potassium": 305,
+        "Zinc": 0.94
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Bread, whole-wheat, commercially prepared",
+    "Data": {
+      "Protein": 12.3,
+      "Carbohydrate": 43.1,
+      "Fat.Total Lipid": 3.55,
+      "Vitamins": {
+        "Vitamin E": 2.82
+      },
+      "Major Minerals": {
+        "Calcium": 163,
+        "Potassium": 250,
+        "Zinc": 1.76,
+        "Iron": 2.56,
+        "Magnesium": 76.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted",
+    "Data": {
+      "Protein": 27.7,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 6.36,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 13.0,
+        "Potassium": 352,
+        "Zinc": 3.7,
+        "Iron": 3.04,
+        "Magnesium": 13.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw",
+    "Data": {
+      "Protein": 22.8,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 6.39,
+      "Vitamins": {
+        "Vitamin E": 0.25
+      },
+      "Major Minerals": {
+        "Calcium": 15.0,
+        "Potassium": 282,
+        "Zinc": 3.76,
+        "Iron": 1.9,
+        "Magnesium": 11.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "Data": {
+      "Protein": 23.4,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 2.48,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.37,
+        "Magnesium": 11.4,
+        "Calcium": 13.0,
+        "Potassium": 312,
+        "Zinc": 3.38
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "Data": {
+      "Protein": 23.7,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 2.41,
+      "Vitamins": {
+        "Vitamin E": 0.21
+      },
+      "Major Minerals": {
+        "Calcium": 13.0,
+        "Potassium": 316,
+        "Zinc": 3.54,
+        "Iron": 2.34,
+        "Magnesium": 11.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw",
+    "Data": {
+      "Protein": 22.7,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 5.32,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 19.0,
+        "Potassium": 266,
+        "Zinc": 3.52,
+        "Iron": 2.26,
+        "Magnesium": 10.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled",
+    "Data": {
+      "Protein": 27.3,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 11.4,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.53,
+        "Magnesium": 20.0,
+        "Calcium": 19.0,
+        "Potassium": 283,
+        "Zinc": 4.69
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Carrots, frozen, unprepared",
+    "Data": {
+      "Protein": 0.81,
+      "Carbohydrate": 7.92,
+      "Fat.Total Lipid": 0.47,
+      "Vitamins": {
+        "Vitamin C": 2.2,
+        "Vitamin K": 15.0,
+        "Vitamin E": 0.69
+      },
+      "Major Minerals": {
+        "Calcium": 33.0,
+        "Potassium": 210,
+        "Zinc": 0.28,
+        "Iron": 0.43,
+        "Magnesium": 10.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, dry white, queso seco",
+    "Data": {
+      "Protein": 24.5,
+      "Carbohydrate": 2.07,
+      "Fat.Total Lipid": 24.3,
+      "Vitamins": {
+        "Vitamin A - RAE": 226,
+        "Vitamin K": 1.6,
+        "Vitamin E": 0.49
+      },
+      "Major Minerals": {
+        "Iron": 0.18,
+        "Magnesium": 26.7,
+        "Calcium": 661,
+        "Potassium": 116,
+        "Zinc": 3.28
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, ricotta, whole milk",
+    "Data": {
+      "Protein": 7.81,
+      "Carbohydrate": 6.86,
+      "Fat.Total Lipid": 11.0,
+      "Vitamins": {
+        "Vitamin E": 0.27,
+        "Vitamin K": 0.6,
+        "Vitamin A - RAE": 127
+      },
+      "Major Minerals": {
+        "Iron": 0.1,
+        "Magnesium": 19.7,
+        "Calcium": 224,
+        "Potassium": 230,
+        "Zinc": 0.56
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, swiss",
+    "Data": {
+      "Protein": 27.0,
+      "Carbohydrate": 1.44,
+      "Fat.Total Lipid": 31.0,
+      "Vitamins": {
+        "Vitamin E": 0.6,
+        "Vitamin A - RAE": 292,
+        "Vitamin K": 1.4
+      },
+      "Major Minerals": {
+        "Calcium": 890,
+        "Potassium": 71.0,
+        "Zinc": 4.37,
+        "Iron": 0.13,
+        "Magnesium": 33.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Figs, dried, uncooked",
+    "Data": {
+      "Protein": 3.3,
+      "Carbohydrate": 63.9,
+      "Fat.Total Lipid": 0.92,
+      "Vitamins": {
+        "Vitamin C": 1.2,
+        "Vitamin K": 15.6,
+        "Vitamin A - RAE": 0.0,
+        "Vitamin E": 0.36
+      },
+      "Major Minerals": {
+        "Iron": 2.03,
+        "Magnesium": 67.6,
+        "Calcium": 162,
+        "Potassium": 680,
+        "Zinc": 0.66
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Lettuce, cos or romaine, raw",
+    "Data": {
+      "Protein": 1.24,
+      "Carbohydrate": 3.24,
+      "Fat.Total Lipid": 0.26,
+      "Vitamins": {
+        "Vitamin A - RAE": 436,
+        "Vitamin C": 4.6,
+        "Vitamin E": 0.14,
+        "Vitamin K": 102
+      },
+      "Major Minerals": {
+        "Calcium": 35.0,
+        "Potassium": 253,
+        "Zinc": 0.25,
+        "Iron": 0.95,
+        "Magnesium": 13.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Melons, cantaloupe, raw",
+    "Data": {
+      "Protein": 0.82,
+      "Carbohydrate": 8.16,
+      "Fat.Total Lipid": 0.18,
+      "Vitamins": {
+        "Vitamin C": 10.9,
+        "Vitamin K": 2.7,
+        "Vitamin A - RAE": 232
+      },
+      "Major Minerals": {
+        "Potassium": 157,
+        "Iron": 0.38,
+        "Magnesium": 13.0,
+        "Calcium": 9.0,
+        "Zinc": 0.44
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oranges, raw, navels",
+    "Data": {
+      "Protein": 0.91,
+      "Carbohydrate": 11.8,
+      "Fat.Total Lipid": 0.15,
+      "Vitamins": {
+        "Vitamin C": 59.1,
+        "Vitamin K": 0.0
+      },
+      "Major Minerals": {
+        "Iron": 0.33,
+        "Magnesium": 10.7,
+        "Calcium": 43.0,
+        "Potassium": 166,
+        "Zinc": 0.11
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+    "Data": {
+      "Protein": 3.38,
+      "Carbohydrate": 5.18,
+      "Fat.Total Lipid": 0.95,
+      "Vitamins": {
+        "Vitamin A - RAE": 58.0,
+        "Vitamin E": 0.02
+      },
+      "Major Minerals": {
+        "Potassium": 159,
+        "Zinc": 0.43,
+        "Magnesium": 12.0,
+        "Iron": 0.0,
+        "Calcium": 126
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pears, raw, bartlett",
+    "Data": {
+      "Protein": 0.38,
+      "Carbohydrate": 15.1,
+      "Fat.Total Lipid": 0.16,
+      "Vitamins": {
+        "Vitamin A - RAE": 1.0,
+        "Vitamin C": 4.4,
+        "Vitamin K": 3.8
+      },
+      "Major Minerals": {
+        "Iron": 0.17,
+        "Magnesium": 5.7,
+        "Calcium": 8.0,
+        "Potassium": 87.0,
+        "Zinc": 0.07
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Restaurant, Chinese, sweet and sour pork",
+    "Data": {
+      "Protein": 8.88,
+      "Carbohydrate": 25.5,
+      "Fat.Total Lipid": 13.6,
+      "Vitamins": {
+        "Vitamin A - RAE": 29.0,
+        "Vitamin C": 2.3,
+        "Vitamin K": 27.8,
+        "Vitamin E": 0.89
+      },
+      "Major Minerals": {
+        "Iron": 3.07,
+        "Magnesium": 13.0,
+        "Calcium": 46.0,
+        "Potassium": 152,
+        "Zinc": 1.07
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Salt, table, iodized",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 0.0,
+        "Calcium": 50.0,
+        "Potassium": 2.0,
+        "Zinc": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+    "Data": {
+      "Protein": 3.43,
+      "Carbohydrate": 4.92,
+      "Fat.Total Lipid": 0.08,
+      "Vitamins": {
+        "Vitamin A - RAE": 64.0,
+        "Vitamin E": 0.0
+      },
+      "Major Minerals": {
+        "Magnesium": 12.5,
+        "Potassium": 167,
+        "Zinc": 0.45,
+        "Calcium": 132,
+        "Iron": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sauce, salsa, ready-to-serve",
+    "Data": {
+      "Protein": 1.44,
+      "Carbohydrate": 6.74,
+      "Fat.Total Lipid": 0.19,
+      "Vitamins": {
+        "Vitamin K": 4.2,
+        "Vitamin E": 1.22,
+        "Vitamin A - RAE": 24.0
+      },
+      "Major Minerals": {
+        "Magnesium": 15.2,
+        "Iron": 0.42,
+        "Potassium": 258,
+        "Zinc": 0.2,
+        "Calcium": 28.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "Data": {
+      "Protein": 3.36,
+      "Carbohydrate": 4.9,
+      "Fat.Total Lipid": 1.9,
+      "Vitamins": {
+        "Vitamin A - RAE": 83.0,
+        "Vitamin E": 0.03
+      },
+      "Major Minerals": {
+        "Calcium": 126,
+        "Potassium": 159,
+        "Zinc": 0.43,
+        "Iron": 0.0,
+        "Magnesium": 12.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sausage, breakfast sausage, beef, pre-cooked, unprepared",
+    "Data": {
+      "Protein": 13.3,
+      "Carbohydrate": 3.37,
+      "Fat.Total Lipid": 28.7,
+      "Vitamins": {
+        "Vitamin E": 0.33,
+        "Vitamin C": 19.2,
+        "Vitamin A - RAE": 18.0
+      },
+      "Major Minerals": {
+        "Calcium": 35.0,
+        "Potassium": 263,
+        "Zinc": 2.14,
+        "Iron": 1.55,
+        "Magnesium": 19.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sausage, Italian, pork, mild, cooked, pan-fried",
+    "Data": {
+      "Protein": 18.2,
+      "Carbohydrate": 2.15,
+      "Fat.Total Lipid": 26.2,
+      "Vitamins": {
+        "Vitamin A - RAE": 22.0,
+        "Vitamin K": 0.0,
+        "Vitamin E": 0.8
+      },
+      "Major Minerals": {
+        "Calcium": 12.0,
+        "Potassium": 310,
+        "Zinc": 2.41,
+        "Iron": 1.29,
+        "Magnesium": 18.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sausage, pork, chorizo, link or ground, cooked, pan-fried",
+    "Data": {
+      "Protein": 19.3,
+      "Carbohydrate": 2.63,
+      "Fat.Total Lipid": 28.1,
+      "Vitamins": {
+        "Vitamin E": 1.5,
+        "Vitamin K": 6.0,
+        "Vitamin A - RAE": 0.0
+      },
+      "Major Minerals": {
+        "Calcium": 37.0,
+        "Iron": 2.34,
+        "Magnesium": 30.1,
+        "Potassium": 435,
+        "Zinc": 2.19
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "Data": {
+      "Protein": 3.27,
+      "Carbohydrate": 4.63,
+      "Fat.Total Lipid": 3.2,
+      "Vitamins": {
+        "Vitamin A - RAE": 32.0,
+        "Vitamin E": 0.05
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 11.9,
+        "Calcium": 123,
+        "Potassium": 150,
+        "Zinc": 0.42
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sausage, turkey, breakfast links, mild, raw",
+    "Data": {
+      "Protein": 16.7,
+      "Carbohydrate": 0.93,
+      "Fat.Total Lipid": 10.4,
+      "Vitamins": {
+        "Vitamin E": 0.24,
+        "Vitamin K": 0.4
+      },
+      "Major Minerals": {
+        "Iron": 1.17,
+        "Magnesium": 18.9,
+        "Calcium": 32.0,
+        "Potassium": 310,
+        "Zinc": 2.58
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sugars, granulated",
+    "Data": {
+      "Protein": 0.0,
+      "Carbohydrate": 99.6,
+      "Fat.Total Lipid": 0.32,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.05,
+        "Magnesium": 0.3,
+        "Calcium": 1.0,
+        "Potassium": 2.0,
+        "Zinc": 0.01
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",
+    "Data": {
+      "Protein": 27.1,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 11.6,
+      "Vitamins": {
+        "Vitamin E": 0.18,
+        "Vitamin A - RAE": 30.0
+      },
+      "Major Minerals": {
+        "Calcium": 31.0,
+        "Potassium": 304,
+        "Zinc": 3.77,
+        "Iron": 1.56,
+        "Magnesium": 29.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Ham, sliced, restaurant",
+    "Data": {
+      "Protein": 19.6,
+      "Carbohydrate": 2.36,
+      "Fat.Total Lipid": 3.68,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 6.0,
+        "Iron": 0.86,
+        "Magnesium": 20.3,
+        "Potassium": 484,
+        "Zinc": 1.76
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, American, restaurant",
+    "Data": {
+      "Protein": 17.5,
+      "Carbohydrate": 6.35,
+      "Fat.Total Lipid": 31.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 508,
+        "Iron": 0.24,
+        "Magnesium": 25.0,
+        "Potassium": 173,
+        "Zinc": 2.45
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Medium Red (0% moisture)",
+    "Data": {
+      "Protein": 25.5,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.04,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 193,
+        "Iron": 6.27,
+        "Potassium": 1490.0,
+        "Magnesium": 178,
+        "Zinc": 3.82
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Red (0% moisture)",
+    "Data": {
+      "Protein": 21.3,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.16,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 148,
+        "Iron": 5.05,
+        "Potassium": 1540.0,
+        "Magnesium": 152,
+        "Zinc": 2.84
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Flor de Mayo (0% moisture)",
+    "Data": {
+      "Protein": 23.3,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0.86,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 180,
+        "Iron": 4.47,
+        "Potassium": 1490.0,
+        "Magnesium": 182,
+        "Zinc": 3.42
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Brown (0% moisture)",
+    "Data": {
+      "Protein": 25.6,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.12,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 158,
+        "Iron": 4.7,
+        "Potassium": 1580.0,
+        "Magnesium": 158,
+        "Zinc": 3.71
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Tan (0% moisture)",
+    "Data": {
+      "Protein": 26.8,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.14,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 178,
+        "Iron": 5.85,
+        "Potassium": 1620.0,
+        "Magnesium": 198,
+        "Zinc": 3.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Light Tan (0% moisture)",
+    "Data": {
+      "Protein": 24.6,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.28,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 98.0,
+        "Iron": 7.29,
+        "Potassium": 1230.0,
+        "Magnesium": 178,
+        "Zinc": 3.23
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Carioca (0% moisture)",
+    "Data": {
+      "Protein": 25.2,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.44,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 194,
+        "Potassium": 1390.0,
+        "Magnesium": 179,
+        "Zinc": 3.36,
+        "Iron": 5.87
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Cranberry (0% moisture)",
+    "Data": {
+      "Protein": 24.4,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.23,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 152,
+        "Iron": 5.26,
+        "Potassium": 1340.0,
+        "Magnesium": 166,
+        "Zinc": 3.03
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Light Red Kidney (0% moisture)",
+    "Data": {
+      "Protein": 25.0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.03,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 103,
+        "Iron": 6.95,
+        "Potassium": 1540.0,
+        "Magnesium": 158,
+        "Zinc": 3.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Pink (0% moisture)",
+    "Data": {
+      "Protein": 23.4,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.2,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 137,
+        "Iron": 5.46,
+        "Potassium": 1490.0,
+        "Magnesium": 164,
+        "Zinc": 3.26
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Dark Red Kidney (0% moisture)",
+    "Data": {
+      "Protein": 25.9,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.31,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 98.0,
+        "Iron": 6.58,
+        "Potassium": 1490.0,
+        "Magnesium": 164,
+        "Zinc": 3.29
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Navy (0% moisture)",
+    "Data": {
+      "Protein": 24.1,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.51,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 229,
+        "Iron": 5.29,
+        "Potassium": 1470.0,
+        "Magnesium": 180,
+        "Zinc": 3.31
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Small White (0% moisture)",
+    "Data": {
+      "Protein": 24.5,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.32,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 236,
+        "Iron": 4.93,
+        "Potassium": 1540.0,
+        "Magnesium": 182,
+        "Zinc": 3.54
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Small Red (0% moisture)",
+    "Data": {
+      "Protein": 23.5,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.28,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 149,
+        "Iron": 4.95,
+        "Potassium": 1520.0,
+        "Magnesium": 167,
+        "Zinc": 3.23
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Black (0% moisture)",
+    "Data": {
+      "Protein": 24.4,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.45,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 191,
+        "Iron": 5.34,
+        "Potassium": 1540.0,
+        "Magnesium": 180,
+        "Zinc": 3.37
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Pinto (0% moisture)",
+    "Data": {
+      "Protein": 23.7,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.24,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 161,
+        "Iron": 5.4,
+        "Potassium": 1510.0,
+        "Magnesium": 170,
+        "Zinc": 3.43
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, Dry, Great Northern (0% moisture)",
+    "Data": {
+      "Protein": 24.7,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 1.24,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 192,
+        "Iron": 5.48,
+        "Potassium": 1520.0,
+        "Magnesium": 176,
+        "Zinc": 3.45
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Broccoli, raw",
+    "Data": {
+      "Protein": 2.57,
+      "Carbohydrate": 6.27,
+      "Fat.Total Lipid": 0.34,
+      "Vitamins": {
+        "Vitamin E": 0.15,
+        "Vitamin C": 91.3,
+        "Vitamin K": 102,
+        "Vitamin A - RAE": 8.0
+      },
+      "Major Minerals": {
+        "Calcium": 46.0,
+        "Potassium": 303,
+        "Zinc": 0.42,
+        "Iron": 0.69,
+        "Magnesium": 21.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Ketchup, restaurant",
+    "Data": {
+      "Protein": 1.11,
+      "Carbohydrate": 26.8,
+      "Fat.Total Lipid": 0.55,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 14.0,
+        "Iron": 0.43,
+        "Magnesium": 13.5,
+        "Potassium": 249,
+        "Zinc": 0.16
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Eggs, Grade A, Large, egg white",
+    "Data": {
+      "Protein": 10.7,
+      "Carbohydrate": 2.36,
+      "Fat.Total Lipid": 0.0,
+      "Vitamins": {},
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Eggs, Grade A, Large, egg yolk",
+    "Data": {
+      "Protein": 16.2,
+      "Carbohydrate": 1.02,
+      "Fat.Total Lipid": 28.8,
+      "Vitamins": {
+        "Vitamin E": 5.64
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, canola",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {
+        "Vitamin E": 17.3
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, corn",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {
+        "Vitamin E": 22.6
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, soybean",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {
+        "Vitamin E": 12.2
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, olive, extra virgin",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {},
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Eggs, Grade A, Large, egg whole",
+    "Data": {
+      "Protein": 12.4,
+      "Carbohydrate": 0.96,
+      "Fat.Total Lipid": 9.96,
+      "Vitamins": {
+        "Vitamin A - RAE": 180
+      },
+      "Major Minerals": {
+        "Iron": 1.67,
+        "Magnesium": 11.4,
+        "Calcium": 48.0,
+        "Potassium": 132,
+        "Zinc": 1.24
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pork, cured, bacon, cooked, restaurant",
+    "Data": {
+      "Protein": 40.9,
+      "Carbohydrate": 2.1,
+      "Fat.Total Lipid": 36.5,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 13.0,
+        "Iron": 1.28,
+        "Magnesium": 36.5,
+        "Potassium": 557,
+        "Zinc": 3.56
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Butter, stick, unsalted",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 81.5,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 14.0,
+        "Magnesium": 1.6,
+        "Iron": 0.03,
+        "Potassium": 19.0,
+        "Zinc": 0.07
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, wheat, all-purpose, enriched, bleached",
+    "Data": {
+      "Protein": 10.9,
+      "Carbohydrate": 77.3,
+      "Fat.Total Lipid": 1.48,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 5.62,
+        "Magnesium": 26.7,
+        "Calcium": 19.0,
+        "Potassium": 136,
+        "Zinc": 0.72
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, wheat, all-purpose, enriched, unbleached",
+    "Data": {
+      "Protein": 13.1,
+      "Carbohydrate": 73.2,
+      "Fat.Total Lipid": 1.48,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 21.0,
+        "Potassium": 135,
+        "Zinc": 0.9,
+        "Iron": 5.41,
+        "Magnesium": 33.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, wheat, all-purpose, unenriched, unbleached",
+    "Data": {
+      "Protein": 12.0,
+      "Carbohydrate": 74.6,
+      "Fat.Total Lipid": 1.7,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 22.0,
+        "Potassium": 150,
+        "Zinc": 1.15,
+        "Iron": 1.18,
+        "Magnesium": 36.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, whole wheat, unenriched",
+    "Data": {
+      "Protein": 15.1,
+      "Carbohydrate": 71.2,
+      "Fat.Total Lipid": 2.73,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 38.0,
+        "Potassium": 376,
+        "Zinc": 3.24,
+        "Iron": 3.86,
+        "Magnesium": 136
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, bread, white, enriched, unbleached",
+    "Data": {
+      "Protein": 14.3,
+      "Carbohydrate": 72.8,
+      "Fat.Total Lipid": 1.65,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 5.55,
+        "Magnesium": 35.9,
+        "Calcium": 19.0,
+        "Potassium": 127,
+        "Zinc": 1.06
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, rice, white, unenriched",
+    "Data": {
+      "Protein": 6.94,
+      "Carbohydrate": 79.8,
+      "Fat.Total Lipid": 1.3,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 6.0,
+        "Potassium": 75.0,
+        "Zinc": 1.19,
+        "Iron": 0.22,
+        "Magnesium": 22.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, corn, yellow, fine meal, enriched",
+    "Data": {
+      "Protein": 6.2,
+      "Carbohydrate": 80.8,
+      "Fat.Total Lipid": 1.74,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 0.0,
+        "Iron": 4.44,
+        "Magnesium": 30.1,
+        "Potassium": 144,
+        "Zinc": 0.62
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Butter, stick, salted",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 82.2,
+      "Vitamins": {
+        "Vitamin E": 0.0,
+        "Vitamin A - RAE": 758
+      },
+      "Major Minerals": {
+        "Iron": 0.06,
+        "Magnesium": 1.6,
+        "Potassium": 23.0,
+        "Zinc": 0.07,
+        "Calcium": 21.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Onions, red, raw",
+    "Data": {
+      "Protein": 0.94,
+      "Carbohydrate": 9.93,
+      "Fat.Total Lipid": 0.1,
+      "Vitamins": {
+        "Vitamin C": 8.1
+      },
+      "Major Minerals": {
+        "Potassium": 197,
+        "Zinc": 0.17,
+        "Calcium": 17.0,
+        "Iron": 0.24,
+        "Magnesium": 11.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Onions, yellow, raw",
+    "Data": {
+      "Protein": 0.83,
+      "Carbohydrate": 8.61,
+      "Fat.Total Lipid": 0.05,
+      "Vitamins": {
+        "Vitamin C": 8.2
+      },
+      "Major Minerals": {
+        "Potassium": 182,
+        "Zinc": 0.2,
+        "Calcium": 15.0,
+        "Iron": 0.28,
+        "Magnesium": 9.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Garlic, raw",
+    "Data": {
+      "Protein": 6.62,
+      "Carbohydrate": 28.2,
+      "Fat.Total Lipid": 0.38,
+      "Vitamins": {
+        "Vitamin C": 10.0
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, soy, defatted",
+    "Data": {
+      "Protein": 51.1,
+      "Carbohydrate": 32.9,
+      "Fat.Total Lipid": 3.33,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 338,
+        "Iron": 7.34,
+        "Magnesium": 313,
+        "Potassium": 2480.0,
+        "Zinc": 4.44
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, soy, full-fat",
+    "Data": {
+      "Protein": 38.6,
+      "Carbohydrate": 27.9,
+      "Fat.Total Lipid": 20.7,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 258,
+        "Potassium": 1860.0,
+        "Zinc": 3.75,
+        "Iron": 9.51,
+        "Magnesium": 254
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, rice, brown",
+    "Data": {
+      "Protein": 7.19,
+      "Carbohydrate": 75.5,
+      "Fat.Total Lipid": 3.85,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.5,
+        "Magnesium": 124,
+        "Calcium": 10.0,
+        "Potassium": 265,
+        "Zinc": 1.91
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, rice, glutinous",
+    "Data": {
+      "Protein": 6.69,
+      "Carbohydrate": 80.1,
+      "Fat.Total Lipid": 1.16,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 10.0,
+        "Iron": 0.34,
+        "Magnesium": 21.2,
+        "Potassium": 80.0,
+        "Zinc": 1.34
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, pastry, unenriched, unbleached",
+    "Data": {
+      "Protein": 8.75,
+      "Carbohydrate": 77.2,
+      "Fat.Total Lipid": 1.64,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 17.0,
+        "Iron": 0.87,
+        "Magnesium": 22.4,
+        "Potassium": 142,
+        "Zinc": 0.74
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Onions, white, raw",
+    "Data": {
+      "Protein": 0.89,
+      "Carbohydrate": 7.68,
+      "Fat.Total Lipid": 0.13,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Calcium": 21.0,
+        "Iron": 0.15,
+        "Magnesium": 9.3,
+        "Potassium": 141,
+        "Zinc": 0.12
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Bananas, overripe, raw",
+    "Data": {
+      "Protein": 0.73,
+      "Carbohydrate": 20.1,
+      "Fat.Total Lipid": 0.22,
+      "Vitamins": {
+        "Vitamin C": 9.7,
+        "Vitamin K": 0.2,
+        "Vitamin A - RAE": 1.0
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Bananas, ripe and slightly ripe, raw",
+    "Data": {
+      "Protein": 0.74,
+      "Carbohydrate": 23.0,
+      "Fat.Total Lipid": 0.29,
+      "Vitamins": {
+        "Vitamin A - RAE": 1.0,
+        "Vitamin C": 12.3,
+        "Vitamin K": 0.1
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 28.0,
+        "Calcium": 5.0,
+        "Potassium": 326,
+        "Zinc": 0.16
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Apples, red delicious, with skin, raw",
+    "Data": {
+      "Protein": 0.188,
+      "Carbohydrate": 14.8,
+      "Fat.Total Lipid": 0.212,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 4.7,
+        "Potassium": 95.3,
+        "Zinc": 0.02,
+        "Calcium": 4.66
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Apples, fuji, with skin, raw",
+    "Data": {
+      "Protein": 0.148,
+      "Carbohydrate": 15.7,
+      "Fat.Total Lipid": 0.162,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.015,
+        "Magnesium": 4.67,
+        "Potassium": 104,
+        "Zinc": 0.017,
+        "Calcium": 5.98
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Apples, gala, with skin, raw",
+    "Data": {
+      "Protein": 0.133,
+      "Carbohydrate": 14.8,
+      "Fat.Total Lipid": 0.15,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.06,
+        "Magnesium": 4.95,
+        "Potassium": 106,
+        "Zinc": 0.024,
+        "Calcium": 6.64
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Apples, granny smith, with skin, raw",
+    "Data": {
+      "Protein": 0.266,
+      "Carbohydrate": 14.1,
+      "Fat.Total Lipid": 0.138,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.07,
+        "Magnesium": 5.06,
+        "Potassium": 116,
+        "Zinc": 0.023,
+        "Calcium": 5.48
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Apples, honeycrisp, with skin, raw",
+    "Data": {
+      "Protein": 0.102,
+      "Carbohydrate": 14.7,
+      "Fat.Total Lipid": 0.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 4.15,
+        "Potassium": 98.0,
+        "Zinc": 0.018,
+        "Calcium": 3.87
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, peanut",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {
+        "Vitamin E": 15.2,
+        "Vitamin K": 4.26
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, sunflower",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {
+        "Vitamin E": 68.5,
+        "Vitamin K": 6.92
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, safflower",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {
+        "Vitamin E": 46.0,
+        "Vitamin K": 5.34
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oil, olive, extra light",
+    "Data": {
+      "Protein": 0,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0,
+      "Vitamins": {
+        "Vitamin E": 20.9,
+        "Vitamin K": 26.0
+      },
+      "Major Minerals": {}
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, lion's mane",
+    "Data": {
+      "Protein": 2.5,
+      "Carbohydrate": 7.59,
+      "Fat.Total Lipid": 0.256,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.688,
+        "Magnesium": 11.7,
+        "Potassium": 443,
+        "Zinc": 0.745,
+        "Calcium": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, oyster",
+    "Data": {
+      "Protein": 2.9,
+      "Carbohydrate": 6.94,
+      "Fat.Total Lipid": 0.188,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.698,
+        "Magnesium": 13.9,
+        "Potassium": 282,
+        "Zinc": 0.684,
+        "Calcium": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushrooms, shiitake",
+    "Data": {
+      "Protein": 2.41,
+      "Carbohydrate": 8.17,
+      "Fat.Total Lipid": 0.195,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.144,
+        "Magnesium": 14.1,
+        "Potassium": 243,
+        "Zinc": 0.764,
+        "Calcium": 0.766
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushrooms, white button",
+    "Data": {
+      "Protein": 2.89,
+      "Carbohydrate": 4.08,
+      "Fat.Total Lipid": 0.371,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.227,
+        "Magnesium": 10.2,
+        "Potassium": 373,
+        "Zinc": 0.511,
+        "Calcium": 5.46
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Soy milk, unsweetened, plain, shelf stable",
+    "Data": {
+      "Protein": 3.55,
+      "Carbohydrate": 1.29,
+      "Fat.Total Lipid": 2.12,
+      "Vitamins": {
+        "Vitamin E": 0.156,
+        "Vitamin A - RAE": 58.2
+      },
+      "Major Minerals": {
+        "Calcium": 101,
+        "Iron": 0.542,
+        "Magnesium": 21.5,
+        "Potassium": 158,
+        "Zinc": 0.312
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Almond milk, unsweetened, plain, shelf stable",
+    "Data": {
+      "Protein": 0.555,
+      "Carbohydrate": 0.337,
+      "Fat.Total Lipid": 1.22,
+      "Vitamins": {
+        "Vitamin E": 3.32,
+        "Vitamin A - RAE": 41.4
+      },
+      "Major Minerals": {
+        "Calcium": 173,
+        "Iron": 0.29,
+        "Magnesium": 6.78,
+        "Potassium": 30.8,
+        "Zinc": 0.172
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Spinach, baby",
+    "Data": {
+      "Protein": 2.85,
+      "Carbohydrate": 2.41,
+      "Fat.Total Lipid": 0.619,
+      "Vitamins": {
+        "Vitamin C": 26.5,
+        "Vitamin A - RAE": 283
+      },
+      "Major Minerals": {
+        "Iron": 1.26,
+        "Magnesium": 92.9,
+        "Potassium": 582,
+        "Zinc": 0.447,
+        "Calcium": 68.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Spinach, mature",
+    "Data": {
+      "Protein": 2.91,
+      "Carbohydrate": 2.64,
+      "Fat.Total Lipid": 0.604,
+      "Vitamins": {
+        "Vitamin C": 30.3,
+        "Vitamin A - RAE": 306
+      },
+      "Major Minerals": {
+        "Iron": 1.05,
+        "Magnesium": 93.0,
+        "Potassium": 460,
+        "Zinc": 0.423,
+        "Calcium": 66.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomato, roma",
+    "Data": {
+      "Protein": 0.696,
+      "Carbohydrate": 3.84,
+      "Fat.Total Lipid": 0.425,
+      "Vitamins": {
+        "Vitamin C": 17.8,
+        "Vitamin A - RAE": 23.9
+      },
+      "Major Minerals": {
+        "Iron": 0.103,
+        "Magnesium": 8.09,
+        "Potassium": 193,
+        "Zinc": 0.082,
+        "Calcium": 9.96
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, 00",
+    "Data": {
+      "Protein": 11.4,
+      "Carbohydrate": 74.4,
+      "Fat.Total Lipid": 1.52,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.986,
+        "Magnesium": 25.8,
+        "Potassium": 136,
+        "Zinc": 0.791,
+        "Calcium": 18.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, spelt, whole grain",
+    "Data": {
+      "Protein": 14.5,
+      "Carbohydrate": 70.7,
+      "Fat.Total Lipid": 2.54,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.77,
+        "Magnesium": 124,
+        "Potassium": 350,
+        "Zinc": 3.59,
+        "Calcium": 30.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, semolina, coarse and semi-coarse",
+    "Data": {
+      "Protein": 11.7,
+      "Carbohydrate": 73.8,
+      "Fat.Total Lipid": 1.6,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.55,
+        "Magnesium": 35.2,
+        "Potassium": 174,
+        "Zinc": 0.947,
+        "Calcium": 17.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, semolina, fine",
+    "Data": {
+      "Protein": 13.3,
+      "Carbohydrate": 72.0,
+      "Fat.Total Lipid": 1.84,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.43,
+        "Magnesium": 46.3,
+        "Potassium": 208,
+        "Zinc": 1.24,
+        "Calcium": 19.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Apple juice, with added vitamin C, from concentrate, shelf stable",
+    "Data": {
+      "Protein": 0.086,
+      "Carbohydrate": 11.4,
+      "Fat.Total Lipid": 0.286,
+      "Vitamins": {
+        "Vitamin C": 51.2
+      },
+      "Major Minerals": {
+        "Iron": 0.04,
+        "Magnesium": 4.86,
+        "Potassium": 95.9,
+        "Zinc": 0.002,
+        "Calcium": 7.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Orange juice, no pulp, not fortified, from concentrate, refrigerated",
+    "Data": {
+      "Protein": 0.734,
+      "Carbohydrate": 10.3,
+      "Fat.Total Lipid": 0.325,
+      "Vitamins": {
+        "Vitamin C": 26.9
+      },
+      "Major Minerals": {
+        "Iron": 0.065,
+        "Magnesium": 10.6,
+        "Potassium": 180,
+        "Zinc": 0.032,
+        "Calcium": 12.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Grape juice, purple, with added vitamin C, from concentrate, shelf stable",
+    "Data": {
+      "Protein": 0.258,
+      "Carbohydrate": 15.6,
+      "Fat.Total Lipid": 0.288,
+      "Vitamins": {
+        "Vitamin C": 45.6
+      },
+      "Major Minerals": {
+        "Iron": 0.041,
+        "Magnesium": 7.87,
+        "Potassium": 49.8,
+        "Zinc": 0.057,
+        "Calcium": 9.74
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Grape juice, white, with added vitamin C, from concentrate, shelf stable",
+    "Data": {
+      "Protein": 0.094,
+      "Carbohydrate": 15.8,
+      "Fat.Total Lipid": 0.265,
+      "Vitamins": {
+        "Vitamin C": 55.2
+      },
+      "Major Minerals": {
+        "Iron": 0.119,
+        "Magnesium": 4.27,
+        "Potassium": 49.0,
+        "Zinc": 0.018,
+        "Calcium": 7.32
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cranberry juice, not fortified, from concentrate, shelf stable",
+    "Data": {
+      "Protein": 0.0,
+      "Carbohydrate": 7.26,
+      "Fat.Total Lipid": 0.338,
+      "Vitamins": {
+        "Vitamin C": 0.0
+      },
+      "Major Minerals": {
+        "Iron": 0.126,
+        "Magnesium": 4.38,
+        "Potassium": 70.6,
+        "Zinc": 0.041,
+        "Calcium": 6.64
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Grapefruit juice, red, not fortified, not from concentrate, refrigerated",
+    "Data": {
+      "Protein": 0.57,
+      "Carbohydrate": 9.1,
+      "Fat.Total Lipid": 0.267,
+      "Vitamins": {
+        "Vitamin C": 24.1
+      },
+      "Major Minerals": {
+        "Iron": 0.015,
+        "Magnesium": 7.75,
+        "Potassium": 128,
+        "Zinc": 0.027,
+        "Calcium": 8.88
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomato juice, with added ingredients, from concentrate, shelf stable",
+    "Data": {
+      "Protein": 0.859,
+      "Carbohydrate": 4.32,
+      "Fat.Total Lipid": 0.288,
+      "Vitamins": {
+        "Vitamin C": 49.8
+      },
+      "Major Minerals": {
+        "Iron": 0.299,
+        "Magnesium": 10.4,
+        "Potassium": 198,
+        "Zinc": 0.104,
+        "Calcium": 9.74
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Orange juice, no pulp, not fortified, not from concentrate, refrigerated",
+    "Data": {
+      "Protein": 0.812,
+      "Carbohydrate": 10.0,
+      "Fat.Total Lipid": 0.356,
+      "Vitamins": {
+        "Vitamin C": 30.5
+      },
+      "Major Minerals": {
+        "Iron": 0.071,
+        "Magnesium": 10.3,
+        "Potassium": 183,
+        "Zinc": 0.032,
+        "Calcium": 9.29
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, portabella",
+    "Data": {
+      "Protein": 2.75,
+      "Carbohydrate": 4.66,
+      "Fat.Total Lipid": 0.312,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.139,
+        "Magnesium": 9.04,
+        "Potassium": 349,
+        "Zinc": 0.389,
+        "Calcium": 3.24
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, king oyster",
+    "Data": {
+      "Protein": 2.41,
+      "Carbohydrate": 8.5,
+      "Fat.Total Lipid": 0.308,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.338,
+        "Magnesium": 13.5,
+        "Potassium": 294,
+        "Zinc": 0.625,
+        "Calcium": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, enoki",
+    "Data": {
+      "Protein": 2.42,
+      "Carbohydrate": 8.14,
+      "Fat.Total Lipid": 0.245,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.28,
+        "Magnesium": 12.8,
+        "Potassium": 402,
+        "Zinc": 0.482,
+        "Calcium": 1.43
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, crimini",
+    "Data": {
+      "Protein": 3.09,
+      "Carbohydrate": 4.01,
+      "Fat.Total Lipid": 0.197,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.312,
+        "Magnesium": 10.2,
+        "Potassium": 380,
+        "Zinc": 0.512,
+        "Calcium": 4.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, maitake",
+    "Data": {
+      "Protein": 2.2,
+      "Carbohydrate": 6.6,
+      "Fat.Total Lipid": 0.265,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.209,
+        "Magnesium": 11.0,
+        "Potassium": 260,
+        "Zinc": 0.763,
+        "Calcium": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, beech",
+    "Data": {
+      "Protein": 2.18,
+      "Carbohydrate": 6.76,
+      "Fat.Total Lipid": 0.449,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.739,
+        "Magnesium": 10.5,
+        "Potassium": 376,
+        "Zinc": 0.498,
+        "Calcium": 0.432
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mushroom, pioppini",
+    "Data": {
+      "Protein": 3.5,
+      "Carbohydrate": 5.76,
+      "Fat.Total Lipid": 0.24,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.486,
+        "Magnesium": 16.0,
+        "Potassium": 392,
+        "Zinc": 0.857,
+        "Calcium": 0.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Soy milk, sweetened, plain, refrigerated",
+    "Data": {
+      "Protein": 2.78,
+      "Carbohydrate": 3.0,
+      "Fat.Total Lipid": 1.96,
+      "Vitamins": {
+        "Vitamin K": 2.8
+      },
+      "Major Minerals": {
+        "Calcium": 155,
+        "Iron": 0.367,
+        "Magnesium": 17.5,
+        "Potassium": 118,
+        "Zinc": 0.264
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Almond milk, unsweetened, plain, refrigerated",
+    "Data": {
+      "Protein": 0.656,
+      "Carbohydrate": 0.671,
+      "Fat.Total Lipid": 1.56,
+      "Vitamins": {
+        "Vitamin K": 0.0
+      },
+      "Major Minerals": {
+        "Calcium": 158,
+        "Iron": 0.125,
+        "Magnesium": 8.25,
+        "Potassium": 49.3,
+        "Zinc": 0.077
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oat milk, unsweetened, plain, refrigerated",
+    "Data": {
+      "Protein": 0.797,
+      "Carbohydrate": 5.1,
+      "Fat.Total Lipid": 2.75,
+      "Vitamins": {
+        "Vitamin K": 0.4
+      },
+      "Major Minerals": {
+        "Calcium": 148,
+        "Iron": 0.261,
+        "Magnesium": 5.91,
+        "Potassium": 148,
+        "Zinc": 0.091
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Carrots, mature, raw",
+    "Data": {
+      "Protein": 0.941,
+      "Carbohydrate": 10.3,
+      "Fat.Total Lipid": 0.351,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.15,
+        "Magnesium": 12.4,
+        "Potassium": 280,
+        "Zinc": 0.236,
+        "Calcium": 30.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Carrots, baby, raw",
+    "Data": {
+      "Protein": 0.805,
+      "Carbohydrate": 9.08,
+      "Fat.Total Lipid": 0.138,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.088,
+        "Magnesium": 11.1,
+        "Potassium": 237,
+        "Zinc": 0.16,
+        "Calcium": 42.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peppers, bell, green, raw",
+    "Data": {
+      "Protein": 0.715,
+      "Carbohydrate": 4.78,
+      "Fat.Total Lipid": 0.106,
+      "Vitamins": {
+        "Vitamin C": 99.5
+      },
+      "Major Minerals": {
+        "Iron": 0.186,
+        "Magnesium": 9.0,
+        "Potassium": 163,
+        "Zinc": 0.126,
+        "Calcium": 7.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peppers, bell, yellow, raw",
+    "Data": {
+      "Protein": 0.819,
+      "Carbohydrate": 6.6,
+      "Fat.Total Lipid": 0.121,
+      "Vitamins": {
+        "Vitamin C": 139
+      },
+      "Major Minerals": {
+        "Iron": 0.36,
+        "Magnesium": 10.3,
+        "Potassium": 197,
+        "Zinc": 0.193,
+        "Calcium": 6.69
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peppers, bell, red, raw",
+    "Data": {
+      "Protein": 0.896,
+      "Carbohydrate": 6.65,
+      "Fat.Total Lipid": 0.126,
+      "Vitamins": {
+        "Vitamin C": 142
+      },
+      "Major Minerals": {
+        "Iron": 0.353,
+        "Magnesium": 11.0,
+        "Potassium": 213,
+        "Zinc": 0.202,
+        "Calcium": 6.36
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peppers, bell, orange, raw",
+    "Data": {
+      "Protein": 0.882,
+      "Carbohydrate": 6.7,
+      "Fat.Total Lipid": 0.156,
+      "Vitamins": {
+        "Vitamin C": 158
+      },
+      "Major Minerals": {
+        "Iron": 0.365,
+        "Magnesium": 10.4,
+        "Potassium": 201,
+        "Zinc": 0.242,
+        "Calcium": 4.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Buttermilk, low fat",
+    "Data": {
+      "Protein": 3.46,
+      "Carbohydrate": 4.81,
+      "Fat.Total Lipid": 1.08,
+      "Vitamins": {
+        "Vitamin K": 0.0
+      },
+      "Major Minerals": {
+        "Iron": 0.013,
+        "Magnesium": 11.0,
+        "Potassium": 158,
+        "Zinc": 0.426,
+        "Calcium": 120
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Yogurt, plain, whole milk",
+    "Data": {
+      "Protein": 3.82,
+      "Carbohydrate": 5.57,
+      "Fat.Total Lipid": 4.48,
+      "Vitamins": {
+        "Vitamin K": 0.2
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 11.4,
+        "Potassium": 164,
+        "Zinc": 0.428,
+        "Calcium": 127
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Yogurt, Greek, plain, whole milk",
+    "Data": {
+      "Protein": 8.78,
+      "Carbohydrate": 4.75,
+      "Fat.Total Lipid": 4.39,
+      "Vitamins": {
+        "Vitamin K": 0.2
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 10.7,
+        "Potassium": 147,
+        "Zinc": 0.473,
+        "Calcium": 111
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, parmesan, grated, refrigerated",
+    "Data": {
+      "Protein": 30.1,
+      "Carbohydrate": 4.33,
+      "Fat.Total Lipid": 29.5,
+      "Vitamins": {
+        "Vitamin K": 1.7
+      },
+      "Major Minerals": {
+        "Iron": 0.14,
+        "Magnesium": 35.4,
+        "Potassium": 74.0,
+        "Zinc": 4.62,
+        "Calcium": 950
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, feta, whole milk, crumbled",
+    "Data": {
+      "Protein": 19.7,
+      "Carbohydrate": 5.58,
+      "Fat.Total Lipid": 19.1,
+      "Vitamins": {
+        "Vitamin K": 1.2
+      },
+      "Major Minerals": {
+        "Iron": 0.068,
+        "Magnesium": 17.7,
+        "Potassium": 105,
+        "Zinc": 2.35,
+        "Calcium": 371
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, almond",
+    "Data": {
+      "Protein": 26.2,
+      "Carbohydrate": 16.2,
+      "Fat.Total Lipid": 50.2,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.22,
+        "Magnesium": 251,
+        "Potassium": 667,
+        "Zinc": 2.8,
+        "Calcium": 232
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, oat, whole grain",
+    "Data": {
+      "Protein": 13.2,
+      "Carbohydrate": 69.9,
+      "Fat.Total Lipid": 6.31,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 4.0,
+        "Magnesium": 125,
+        "Potassium": 373,
+        "Zinc": 2.75,
+        "Calcium": 42.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, potato",
+    "Data": {
+      "Protein": 8.11,
+      "Carbohydrate": 79.9,
+      "Fat.Total Lipid": 0.951,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 12.0,
+        "Magnesium": 73.6,
+        "Potassium": 1270.0,
+        "Zinc": 0.9,
+        "Calcium": 44.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peanut butter, creamy",
+    "Data": {
+      "Protein": 24.0,
+      "Carbohydrate": 22.7,
+      "Fat.Total Lipid": 49.4,
+      "Vitamins": {
+        "Vitamin E": 5.41,
+        "Vitamin K": 0.0
+      },
+      "Major Minerals": {
+        "Calcium": 49.8,
+        "Iron": 1.85,
+        "Magnesium": 193,
+        "Potassium": 654,
+        "Zinc": 3.06
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sesame butter, creamy",
+    "Data": {
+      "Protein": 19.7,
+      "Carbohydrate": 14.2,
+      "Fat.Total Lipid": 62.4,
+      "Vitamins": {
+        "Vitamin E": 0.0,
+        "Vitamin K": 1.71
+      },
+      "Major Minerals": {
+        "Calcium": 116,
+        "Iron": 7.0,
+        "Magnesium": 357,
+        "Potassium": 408,
+        "Zinc": 6.04
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Almond butter, creamy",
+    "Data": {
+      "Protein": 20.8,
+      "Carbohydrate": 21.2,
+      "Fat.Total Lipid": 53.0,
+      "Vitamins": {
+        "Vitamin E": 16.7,
+        "Vitamin K": 0.0
+      },
+      "Major Minerals": {
+        "Calcium": 264,
+        "Iron": 4.11,
+        "Magnesium": 268,
+        "Potassium": 745,
+        "Zinc": 3.18
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flaxseed, ground",
+    "Data": {
+      "Protein": 18.0,
+      "Carbohydrate": 34.4,
+      "Fat.Total Lipid": 37.3,
+      "Vitamins": {
+        "Vitamin E": 0.0,
+        "Vitamin K": 3.68
+      },
+      "Major Minerals": {
+        "Calcium": 230,
+        "Iron": 5.78,
+        "Magnesium": 372,
+        "Potassium": 793,
+        "Zinc": 4.74
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cottage cheese, full fat, large or small curd",
+    "Data": {
+      "Protein": 11.6,
+      "Carbohydrate": 4.6,
+      "Fat.Total Lipid": 4.22,
+      "Vitamins": {
+        "Vitamin K": 0.2
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 9.19,
+        "Potassium": 124,
+        "Zinc": 0.454,
+        "Calcium": 88.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cream cheese, full fat, block",
+    "Data": {
+      "Protein": 5.79,
+      "Carbohydrate": 4.56,
+      "Fat.Total Lipid": 33.5,
+      "Vitamins": {
+        "Vitamin K": 2.4
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 8.91,
+        "Potassium": 125,
+        "Zinc": 0.589,
+        "Calcium": 97.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cream, heavy",
+    "Data": {
+      "Protein": 2.02,
+      "Carbohydrate": 3.8,
+      "Fat.Total Lipid": 35.6,
+      "Vitamins": {
+        "Vitamin K": 2.4
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 5.97,
+        "Potassium": 96.9,
+        "Zinc": 0.223,
+        "Calcium": 61.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cream, sour, full fat",
+    "Data": {
+      "Protein": 3.07,
+      "Carbohydrate": 5.56,
+      "Fat.Total Lipid": 18.0,
+      "Vitamins": {
+        "Vitamin K": 1.2
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 10.1,
+        "Potassium": 154,
+        "Zinc": 0.392,
+        "Calcium": 107
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Lettuce, iceberg, raw",
+    "Data": {
+      "Protein": 0.742,
+      "Carbohydrate": 3.37,
+      "Fat.Total Lipid": 0.074,
+      "Vitamins": {
+        "Vitamin K": 20.5
+      },
+      "Major Minerals": {
+        "Iron": 0.033,
+        "Magnesium": 6.31,
+        "Potassium": 139,
+        "Zinc": 0.173,
+        "Calcium": 14.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Lettuce, romaine, green, raw",
+    "Data": {
+      "Protein": 0.977,
+      "Carbohydrate": 4.06,
+      "Fat.Total Lipid": 0.071,
+      "Vitamins": {
+        "Vitamin K": 83.4
+      },
+      "Major Minerals": {
+        "Iron": 0.267,
+        "Magnesium": 12.0,
+        "Potassium": 260,
+        "Zinc": 0.252,
+        "Calcium": 27.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Lettuce, leaf, red, raw",
+    "Data": {
+      "Protein": 0.883,
+      "Carbohydrate": 3.26,
+      "Fat.Total Lipid": 0.106,
+      "Vitamins": {
+        "Vitamin C": 9.34,
+        "Vitamin K": 73.2
+      },
+      "Major Minerals": {
+        "Iron": 0.402,
+        "Magnesium": 12.4,
+        "Potassium": 321,
+        "Zinc": 0.303,
+        "Calcium": 42.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Lettuce, leaf, green, raw",
+    "Data": {
+      "Protein": 1.09,
+      "Carbohydrate": 4.07,
+      "Fat.Total Lipid": 0.156,
+      "Vitamins": {
+        "Vitamin C": 15.2,
+        "Vitamin K": 118
+      },
+      "Major Minerals": {
+        "Iron": 0.32,
+        "Magnesium": 12.8,
+        "Potassium": 277,
+        "Zinc": 0.31,
+        "Calcium": 39.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, pine nuts, raw",
+    "Data": {
+      "Protein": 15.7,
+      "Carbohydrate": 18.6,
+      "Fat.Total Lipid": 61.3,
+      "Vitamins": {
+        "Vitamin K": 3.2
+      },
+      "Major Minerals": {
+        "Iron": 5.36,
+        "Magnesium": 206,
+        "Potassium": 655,
+        "Zinc": 5.71,
+        "Calcium": 8.74
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, almonds, whole, raw",
+    "Data": {
+      "Protein": 21.5,
+      "Carbohydrate": 20.0,
+      "Fat.Total Lipid": 51.1,
+      "Vitamins": {
+        "Vitamin K": 0.0
+      },
+      "Major Minerals": {
+        "Iron": 3.74,
+        "Magnesium": 258,
+        "Potassium": 733,
+        "Zinc": 2.86,
+        "Calcium": 254
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, walnuts, English, halves, raw",
+    "Data": {
+      "Protein": 14.6,
+      "Carbohydrate": 10.9,
+      "Fat.Total Lipid": 69.7,
+      "Vitamins": {
+        "Vitamin K": 1.7
+      },
+      "Major Minerals": {
+        "Iron": 2.24,
+        "Magnesium": 142,
+        "Potassium": 424,
+        "Zinc": 2.76,
+        "Calcium": 88.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, pecans, halves, raw",
+    "Data": {
+      "Protein": 9.96,
+      "Carbohydrate": 12.7,
+      "Fat.Total Lipid": 73.3,
+      "Vitamins": {
+        "Vitamin K": 4.1
+      },
+      "Major Minerals": {
+        "Iron": 2.37,
+        "Magnesium": 103,
+        "Potassium": 360,
+        "Zinc": 3.93,
+        "Calcium": 54.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oats, whole grain, rolled, old fashioned",
+    "Data": {
+      "Protein": 13.5,
+      "Carbohydrate": 68.7,
+      "Fat.Total Lipid": 5.89,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 4.34,
+        "Magnesium": 126,
+        "Potassium": 350,
+        "Zinc": 2.74,
+        "Calcium": 45.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Oats, whole grain, steel cut",
+    "Data": {
+      "Protein": 12.5,
+      "Carbohydrate": 69.8,
+      "Fat.Total Lipid": 5.8,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.8,
+        "Magnesium": 129,
+        "Potassium": 376,
+        "Zinc": 2.84,
+        "Calcium": 51.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pineapple, raw",
+    "Data": {
+      "Protein": 0.461,
+      "Carbohydrate": 14.1,
+      "Fat.Total Lipid": 0.211,
+      "Vitamins": {
+        "Vitamin C": 58.6
+      },
+      "Major Minerals": {
+        "Iron": 0.054,
+        "Magnesium": 13.4,
+        "Potassium": 137,
+        "Zinc": 0.107,
+        "Calcium": 12.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cherries, sweet, dark red, raw",
+    "Data": {
+      "Protein": 1.04,
+      "Carbohydrate": 16.2,
+      "Fat.Total Lipid": 0.192,
+      "Vitamins": {
+        "Vitamin C": 10.4
+      },
+      "Major Minerals": {
+        "Iron": 0.105,
+        "Magnesium": 12.1,
+        "Potassium": 230,
+        "Zinc": 0.065,
+        "Calcium": 12.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, snap, green, raw",
+    "Data": {
+      "Protein": 1.97,
+      "Carbohydrate": 7.41,
+      "Fat.Total Lipid": 0.275,
+      "Vitamins": {
+        "Vitamin K": 43.9
+      },
+      "Major Minerals": {
+        "Iron": 0.652,
+        "Magnesium": 28.2,
+        "Potassium": 290,
+        "Zinc": 0.35,
+        "Calcium": 40.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Potatoes, russet, without skin, raw",
+    "Data": {
+      "Protein": 2.27,
+      "Carbohydrate": 17.8,
+      "Fat.Total Lipid": 0.36,
+      "Vitamins": {
+        "Vitamin C": 10.9,
+        "Vitamin K": 1.5
+      },
+      "Major Minerals": {
+        "Iron": 0.384,
+        "Magnesium": 25.6,
+        "Potassium": 450,
+        "Zinc": 0.378,
+        "Calcium": 7.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Potatoes, red, without skin, raw",
+    "Data": {
+      "Protein": 2.06,
+      "Carbohydrate": 16.3,
+      "Fat.Total Lipid": 0.248,
+      "Vitamins": {
+        "Vitamin C": 21.3,
+        "Vitamin K": 1.1
+      },
+      "Major Minerals": {
+        "Iron": 0.391,
+        "Magnesium": 23.6,
+        "Potassium": 472,
+        "Zinc": 0.392,
+        "Calcium": 5.13
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Potatoes, gold, without skin, raw",
+    "Data": {
+      "Protein": 1.81,
+      "Carbohydrate": 16.0,
+      "Fat.Total Lipid": 0.264,
+      "Vitamins": {
+        "Vitamin C": 23.3,
+        "Vitamin K": 0.8
+      },
+      "Major Minerals": {
+        "Iron": 0.373,
+        "Magnesium": 22.3,
+        "Potassium": 446,
+        "Zinc": 0.374,
+        "Calcium": 5.94
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sweet potatoes, orange flesh, without skin, raw",
+    "Data": {
+      "Protein": 1.58,
+      "Carbohydrate": 17.3,
+      "Fat.Total Lipid": 0.375,
+      "Vitamins": {
+        "Vitamin C": 14.8,
+        "Vitamin K": 0.2
+      },
+      "Major Minerals": {
+        "Iron": 0.398,
+        "Magnesium": 19.1,
+        "Potassium": 486,
+        "Zinc": 0.337,
+        "Calcium": 22.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Celery, raw",
+    "Data": {
+      "Protein": 0.492,
+      "Carbohydrate": 3.32,
+      "Fat.Total Lipid": 0.162,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 10.9,
+        "Potassium": 265,
+        "Zinc": 0.093,
+        "Calcium": 46.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cucumber, with peel, raw",
+    "Data": {
+      "Protein": 0.625,
+      "Carbohydrate": 2.95,
+      "Fat.Total Lipid": 0.178,
+      "Vitamins": {
+        "Vitamin K": 24.0
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 10.1,
+        "Potassium": 170,
+        "Zinc": 0.204,
+        "Calcium": 16.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cabbage, green, raw",
+    "Data": {
+      "Protein": 0.961,
+      "Carbohydrate": 6.38,
+      "Fat.Total Lipid": 0.228,
+      "Vitamins": {
+        "Vitamin C": 40.3,
+        "Vitamin K": 59.4
+      },
+      "Major Minerals": {
+        "Iron": 0.066,
+        "Magnesium": 13.9,
+        "Potassium": 207,
+        "Zinc": 0.211,
+        "Calcium": 41.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cabbage, red, raw",
+    "Data": {
+      "Protein": 1.24,
+      "Carbohydrate": 6.79,
+      "Fat.Total Lipid": 0.214,
+      "Vitamins": {
+        "Vitamin C": 53.9,
+        "Vitamin K": 32.3
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 13.3,
+        "Potassium": 269,
+        "Zinc": 0.245,
+        "Calcium": 31.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Strawberries, raw",
+    "Data": {
+      "Protein": 0.641,
+      "Carbohydrate": 7.96,
+      "Fat.Total Lipid": 0.22,
+      "Vitamins": {
+        "Vitamin C": 59.6
+      },
+      "Major Minerals": {
+        "Iron": 0.255,
+        "Magnesium": 12.5,
+        "Potassium": 161,
+        "Zinc": 0.114,
+        "Calcium": 16.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Raspberries, raw",
+    "Data": {
+      "Protein": 1.01,
+      "Carbohydrate": 12.9,
+      "Fat.Total Lipid": 0.188,
+      "Vitamins": {
+        "Vitamin C": 23.0
+      },
+      "Major Minerals": {
+        "Iron": 0.45,
+        "Magnesium": 19.2,
+        "Potassium": 156,
+        "Zinc": 0.221,
+        "Calcium": 16.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Blueberries, raw",
+    "Data": {
+      "Protein": 0.703,
+      "Carbohydrate": 14.6,
+      "Fat.Total Lipid": 0.306,
+      "Vitamins": {
+        "Vitamin C": 8.06
+      },
+      "Major Minerals": {
+        "Iron": 0.34,
+        "Magnesium": 6.18,
+        "Potassium": 85.6,
+        "Zinc": 0.085,
+        "Calcium": 11.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Grapes, red, seedless, raw",
+    "Data": {
+      "Protein": 0.914,
+      "Carbohydrate": 20.2,
+      "Fat.Total Lipid": 0.164,
+      "Vitamins": {
+        "Vitamin C": 3.31
+      },
+      "Major Minerals": {
+        "Iron": 0.162,
+        "Magnesium": 8.56,
+        "Potassium": 229,
+        "Zinc": 0.036,
+        "Calcium": 10.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Grapes, green, seedless, raw",
+    "Data": {
+      "Protein": 0.899,
+      "Carbohydrate": 18.6,
+      "Fat.Total Lipid": 0.232,
+      "Vitamins": {
+        "Vitamin C": 3.02
+      },
+      "Major Minerals": {
+        "Iron": 0.199,
+        "Magnesium": 7.12,
+        "Potassium": 218,
+        "Zinc": 0.027,
+        "Calcium": 9.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Applesauce, unsweetened, with added vitamin C",
+    "Data": {
+      "Protein": 0.273,
+      "Carbohydrate": 12.3,
+      "Fat.Total Lipid": 0.162,
+      "Vitamins": {
+        "Vitamin C": 43.7
+      },
+      "Major Minerals": {
+        "Iron": 0.045,
+        "Magnesium": 3.94,
+        "Potassium": 108,
+        "Zinc": 0.003,
+        "Calcium": 3.82
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, amaranth",
+    "Data": {
+      "Protein": 13.2,
+      "Carbohydrate": 68.8,
+      "Fat.Total Lipid": 6.24,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 7.56,
+        "Magnesium": 233,
+        "Potassium": 396,
+        "Zinc": 3.0,
+        "Calcium": 135
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, quinoa",
+    "Data": {
+      "Protein": 11.9,
+      "Carbohydrate": 69.5,
+      "Fat.Total Lipid": 6.6,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 4.53,
+        "Magnesium": 164,
+        "Potassium": 551,
+        "Zinc": 2.77,
+        "Calcium": 37.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, sorghum",
+    "Data": {
+      "Protein": 8.27,
+      "Carbohydrate": 77.4,
+      "Fat.Total Lipid": 3.59,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.72,
+        "Magnesium": 116,
+        "Potassium": 335,
+        "Zinc": 1.66,
+        "Calcium": 11.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, buckwheat",
+    "Data": {
+      "Protein": 8.88,
+      "Carbohydrate": 75.0,
+      "Fat.Total Lipid": 2.48,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.84,
+        "Magnesium": 167,
+        "Potassium": 378,
+        "Zinc": 1.76,
+        "Calcium": 30.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, rye",
+    "Data": {
+      "Protein": 8.4,
+      "Carbohydrate": 77.2,
+      "Fat.Total Lipid": 1.91,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.54,
+        "Magnesium": 95.4,
+        "Potassium": 434,
+        "Zinc": 2.33,
+        "Calcium": 32.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, barley",
+    "Data": {
+      "Protein": 8.72,
+      "Carbohydrate": 77.4,
+      "Fat.Total Lipid": 2.45,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.3,
+        "Magnesium": 88.0,
+        "Potassium": 367,
+        "Zinc": 2.14,
+        "Calcium": 35.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, cassava",
+    "Data": {
+      "Protein": 0.918,
+      "Carbohydrate": 87.3,
+      "Fat.Total Lipid": 0.494,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.99,
+        "Magnesium": 33.6,
+        "Potassium": 198,
+        "Zinc": 0.41,
+        "Calcium": 74.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Buckwheat, whole grain",
+    "Data": {
+      "Protein": 11.1,
+      "Carbohydrate": 71.1,
+      "Fat.Total Lipid": 3.04,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.44,
+        "Magnesium": 203,
+        "Potassium": 414,
+        "Zinc": 2.24,
+        "Calcium": 13.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Millet, whole grain",
+    "Data": {
+      "Protein": 10.0,
+      "Carbohydrate": 74.4,
+      "Fat.Total Lipid": 4.19,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.53,
+        "Magnesium": 106,
+        "Potassium": 214,
+        "Zinc": 2.26,
+        "Calcium": 9.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Rice, brown, long grain, unenriched, raw",
+    "Data": {
+      "Protein": 7.25,
+      "Carbohydrate": 76.7,
+      "Fat.Total Lipid": 3.31,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.24,
+        "Magnesium": 115,
+        "Potassium": 250,
+        "Zinc": 1.85,
+        "Calcium": 8.06
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Rice, white, long grain, unenriched, raw",
+    "Data": {
+      "Protein": 7.04,
+      "Carbohydrate": 80.3,
+      "Fat.Total Lipid": 1.03,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.14,
+        "Magnesium": 26.5,
+        "Potassium": 82.3,
+        "Zinc": 1.35,
+        "Calcium": 4.46
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, ground, 90% lean meat / 10% fat, raw",
+    "Data": {
+      "Protein": 18.2,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 12.8,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.13,
+        "Magnesium": 16.5,
+        "Potassium": 281,
+        "Zinc": 4.19,
+        "Calcium": 7.14
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, ground, 80% lean meat / 20% fat, raw",
+    "Data": {
+      "Protein": 17.5,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 19.4,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.96,
+        "Magnesium": 16.4,
+        "Potassium": 273,
+        "Zinc": 3.85,
+        "Calcium": 6.89
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pork, ground, raw",
+    "Data": {
+      "Protein": 17.8,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 17.5,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.788,
+        "Magnesium": 19.0,
+        "Potassium": 318,
+        "Zinc": 2.23,
+        "Calcium": 5.86
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chicken, ground, with additives, raw",
+    "Data": {
+      "Protein": 17.9,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 7.16,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.593,
+        "Magnesium": 20.5,
+        "Potassium": 302,
+        "Zinc": 1.18,
+        "Calcium": 5.82
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Turkey, ground, 93% lean/ 7% fat, raw",
+    "Data": {
+      "Protein": 17.3,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 9.59,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.09,
+        "Magnesium": 17.3,
+        "Potassium": 246,
+        "Zinc": 2.95,
+        "Calcium": 23.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, brazilnuts, raw",
+    "Data": {
+      "Protein": 15.0,
+      "Carbohydrate": 21.6,
+      "Fat.Total Lipid": 57.4,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.47,
+        "Magnesium": 351,
+        "Potassium": 592,
+        "Zinc": 3.82,
+        "Calcium": 168
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, cashew nuts, raw",
+    "Data": {
+      "Protein": 17.4,
+      "Carbohydrate": 36.3,
+      "Fat.Total Lipid": 38.9,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 5.99,
+        "Magnesium": 251,
+        "Potassium": 638,
+        "Zinc": 5.07,
+        "Calcium": 42.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, hazelnuts or filberts, raw",
+    "Data": {
+      "Protein": 13.5,
+      "Carbohydrate": 26.5,
+      "Fat.Total Lipid": 53.5,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.46,
+        "Magnesium": 156,
+        "Potassium": 636,
+        "Zinc": 2.33,
+        "Calcium": 135
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peanuts, raw",
+    "Data": {
+      "Protein": 23.2,
+      "Carbohydrate": 26.5,
+      "Fat.Total Lipid": 43.3,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.55,
+        "Magnesium": 180,
+        "Potassium": 636,
+        "Zinc": 2.78,
+        "Calcium": 49.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, chestnut",
+    "Data": {
+      "Protein": 5.29,
+      "Carbohydrate": 80.5,
+      "Fat.Total Lipid": 4.64,
+      "Vitamins": {
+        "Vitamin C": 4.05
+      },
+      "Major Minerals": {
+        "Iron": 1.62,
+        "Magnesium": 68.8,
+        "Potassium": 1030.0,
+        "Zinc": 1.04,
+        "Calcium": 55.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, macadamia nuts, raw",
+    "Data": {
+      "Protein": 7.79,
+      "Carbohydrate": 24.1,
+      "Fat.Total Lipid": 64.9,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.88,
+        "Magnesium": 107,
+        "Potassium": 373,
+        "Zinc": 1.2,
+        "Calcium": 52.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Nuts, pistachio nuts, raw",
+    "Data": {
+      "Protein": 20.5,
+      "Carbohydrate": 27.7,
+      "Fat.Total Lipid": 45.0,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.46,
+        "Magnesium": 110,
+        "Potassium": 947,
+        "Zinc": 2.18,
+        "Calcium": 117
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Seeds, pumpkin seeds (pepitas), raw",
+    "Data": {
+      "Protein": 29.9,
+      "Carbohydrate": 18.7,
+      "Fat.Total Lipid": 40.0,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 8.36,
+        "Magnesium": 500,
+        "Potassium": 691,
+        "Zinc": 6.34,
+        "Calcium": 37.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Seeds, sunflower seed, kernel, raw",
+    "Data": {
+      "Protein": 18.9,
+      "Carbohydrate": 24.5,
+      "Fat.Total Lipid": 48.4,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 4.37,
+        "Magnesium": 302,
+        "Potassium": 657,
+        "Zinc": 5.58,
+        "Calcium": 116
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Flour, coconut",
+    "Data": {
+      "Protein": 16.1,
+      "Carbohydrate": 58.9,
+      "Fat.Total Lipid": 15.3,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 8.02,
+        "Magnesium": 248,
+        "Potassium": 2090.0,
+        "Zinc": 3.7,
+        "Calcium": 36.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, cannellini, dry",
+    "Data": {
+      "Protein": 21.6,
+      "Carbohydrate": 59.8,
+      "Fat.Total Lipid": 2.2,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 6.67,
+        "Magnesium": 154,
+        "Potassium": 1420.0,
+        "Zinc": 2.72,
+        "Calcium": 143
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chickpeas, (garbanzo beans, bengal gram), dry",
+    "Data": {
+      "Protein": 21.3,
+      "Carbohydrate": 60.4,
+      "Fat.Total Lipid": 6.27,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 5.09,
+        "Magnesium": 135,
+        "Potassium": 1070.0,
+        "Zinc": 3.12,
+        "Calcium": 111
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Lentils, dry",
+    "Data": {
+      "Protein": 23.6,
+      "Carbohydrate": 62.2,
+      "Fat.Total Lipid": 1.92,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 7.16,
+        "Magnesium": 107,
+        "Potassium": 949,
+        "Zinc": 3.86,
+        "Calcium": 61.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Blackeye pea, dry",
+    "Data": {
+      "Protein": 21.2,
+      "Carbohydrate": 61.8,
+      "Fat.Total Lipid": 2.42,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 5.93,
+        "Magnesium": 184,
+        "Potassium": 1240.0,
+        "Zinc": 3.65,
+        "Calcium": 71.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, black, canned, sodium added, drained and rinsed",
+    "Data": {
+      "Protein": 6.91,
+      "Carbohydrate": 19.8,
+      "Fat.Total Lipid": 1.27,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.69,
+        "Magnesium": 32.5,
+        "Potassium": 253,
+        "Zinc": 0.74,
+        "Calcium": 43.3
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, navy, canned, sodium added, drained and rinsed",
+    "Data": {
+      "Protein": 6.57,
+      "Carbohydrate": 20.0,
+      "Fat.Total Lipid": 1.4,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.6,
+        "Magnesium": 29.6,
+        "Potassium": 184,
+        "Zinc": 0.631,
+        "Calcium": 63.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, cannellini, canned, sodium added, drained and rinsed",
+    "Data": {
+      "Protein": 7.41,
+      "Carbohydrate": 18.8,
+      "Fat.Total Lipid": 1.17,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.4,
+        "Magnesium": 29.3,
+        "Potassium": 203,
+        "Zinc": 0.516,
+        "Calcium": 69.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",
+    "Data": {
+      "Protein": 7.02,
+      "Carbohydrate": 20.3,
+      "Fat.Total Lipid": 3.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.04,
+        "Magnesium": 28.4,
+        "Potassium": 137,
+        "Zinc": 0.724,
+        "Calcium": 40.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",
+    "Data": {
+      "Protein": 7.8,
+      "Carbohydrate": 21.0,
+      "Fat.Total Lipid": 1.26,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.44,
+        "Magnesium": 29.3,
+        "Potassium": 227,
+        "Zinc": 0.56,
+        "Calcium": 56.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",
+    "Data": {
+      "Protein": 7.31,
+      "Carbohydrate": 21.4,
+      "Fat.Total Lipid": 1.3,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.3,
+        "Magnesium": 25.5,
+        "Potassium": 209,
+        "Zinc": 0.526,
+        "Calcium": 60.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",
+    "Data": {
+      "Protein": 4.73,
+      "Carbohydrate": 12.7,
+      "Fat.Total Lipid": 1.15,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.14,
+        "Magnesium": 21.9,
+        "Potassium": 109,
+        "Zinc": 0.712,
+        "Calcium": 28.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, pinto, canned, sodium added, drained and rinsed",
+    "Data": {
+      "Protein": 6.69,
+      "Carbohydrate": 19.6,
+      "Fat.Total Lipid": 1.27,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.28,
+        "Magnesium": 27.5,
+        "Potassium": 210,
+        "Zinc": 0.625,
+        "Calcium": 55.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Blackeye pea, canned, sodium added, drained and rinsed",
+    "Data": {
+      "Protein": 6.92,
+      "Carbohydrate": 19.2,
+      "Fat.Total Lipid": 1.3,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.08,
+        "Magnesium": 27.3,
+        "Potassium": 138,
+        "Zinc": 0.655,
+        "Calcium": 27.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beans, great northern, canned, sodium added, drained and rinsed",
+    "Data": {
+      "Protein": 7.03,
+      "Carbohydrate": 19.3,
+      "Fat.Total Lipid": 1.27,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.38,
+        "Magnesium": 29.3,
+        "Potassium": 213,
+        "Zinc": 0.635,
+        "Calcium": 67.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pork, loin, boneless, raw",
+    "Data": {
+      "Protein": 21.1,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 9.47,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.452,
+        "Magnesium": 22.0,
+        "Potassium": 361,
+        "Zinc": 1.57,
+        "Calcium": 4.11
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pork, loin, tenderloin, boneless, raw",
+    "Data": {
+      "Protein": 21.6,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 3.9,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.929,
+        "Magnesium": 24.7,
+        "Potassium": 397,
+        "Zinc": 1.77,
+        "Calcium": 4.53
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chicken, breast, boneless, skinless, raw",
+    "Data": {
+      "Protein": 22.5,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 1.93,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.354,
+        "Magnesium": 26.2,
+        "Potassium": 330,
+        "Zinc": 0.654,
+        "Calcium": 3.94
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chicken, thigh, boneless, skinless, raw",
+    "Data": {
+      "Protein": 18.6,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 7.92,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.602,
+        "Magnesium": 21.8,
+        "Potassium": 272,
+        "Zinc": 1.35,
+        "Calcium": 5.65
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, ribeye, steak, boneless, choice, raw",
+    "Data": {
+      "Protein": 18.7,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 20.0,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.64,
+        "Magnesium": 16.7,
+        "Potassium": 288,
+        "Zinc": 4.06,
+        "Calcium": 4.17
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, round, top round, boneless, choice, raw",
+    "Data": {
+      "Protein": 21.5,
+      "Carbohydrate": 0.852,
+      "Fat.Total Lipid": 5.7,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.9,
+        "Magnesium": 22.1,
+        "Potassium": 352,
+        "Zinc": 3.78,
+        "Calcium": 4.07
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, chuck, roast, boneless, choice, raw",
+    "Data": {
+      "Protein": 18.4,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 17.8,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.06,
+        "Magnesium": 17.0,
+        "Potassium": 281,
+        "Zinc": 5.39,
+        "Calcium": 4.58
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beef, flank, steak, boneless, choice, raw",
+    "Data": {
+      "Protein": 20.1,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 9.4,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.83,
+        "Magnesium": 18.9,
+        "Potassium": 332,
+        "Zinc": 5.56,
+        "Calcium": 3.84
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Yogurt, plain, nonfat",
+    "Data": {
+      "Protein": 4.23,
+      "Carbohydrate": 8.08,
+      "Fat.Total Lipid": 0.087,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 15.2,
+        "Potassium": 210,
+        "Zinc": 0.599,
+        "Calcium": 167
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, monterey jack, solid",
+    "Data": {
+      "Protein": 22.6,
+      "Carbohydrate": 1.9,
+      "Fat.Total Lipid": 32.6,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 29.6,
+        "Potassium": 82.9,
+        "Zinc": 3.78,
+        "Calcium": 715
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, pasteurized process cheese food or product, American, singles",
+    "Data": {
+      "Protein": 15.6,
+      "Carbohydrate": 8.19,
+      "Fat.Total Lipid": 23.9,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.3,
+        "Magnesium": 34.6,
+        "Potassium": 212,
+        "Zinc": 2.38,
+        "Calcium": 1500.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, provolone, sliced",
+    "Data": {
+      "Protein": 23.5,
+      "Carbohydrate": 2.45,
+      "Fat.Total Lipid": 28.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 29.5,
+        "Potassium": 94.8,
+        "Zinc": 3.89,
+        "Calcium": 749
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, oaxaca, solid",
+    "Data": {
+      "Protein": 22.1,
+      "Carbohydrate": 2.4,
+      "Fat.Total Lipid": 22.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 21.6,
+        "Potassium": 80.7,
+        "Zinc": 3.51,
+        "Calcium": 532
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, queso fresco, solid",
+    "Data": {
+      "Protein": 18.9,
+      "Carbohydrate": 2.96,
+      "Fat.Total Lipid": 23.4,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 27.6,
+        "Potassium": 126,
+        "Zinc": 2.91,
+        "Calcium": 602
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cheese, cotija, solid",
+    "Data": {
+      "Protein": 23.8,
+      "Carbohydrate": 2.72,
+      "Fat.Total Lipid": 27.2,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 29.9,
+        "Potassium": 117,
+        "Zinc": 3.6,
+        "Calcium": 700
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, salmon, sockeye, wild caught, raw",
+    "Data": {
+      "Protein": 22.3,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 4.94,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.402,
+        "Magnesium": 26.2,
+        "Potassium": 330,
+        "Zinc": 0.425,
+        "Calcium": 14.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, salmon, Atlantic, farm raised, raw",
+    "Data": {
+      "Protein": 20.3,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 13.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.259,
+        "Magnesium": 25.4,
+        "Potassium": 378,
+        "Zinc": 0.339,
+        "Calcium": 9.42
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, tilapia, farm raised, raw",
+    "Data": {
+      "Protein": 19.0,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 2.48,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 24.3,
+        "Potassium": 342,
+        "Zinc": 0.3,
+        "Calcium": 8.63
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Crustaceans, shrimp, farm raised, raw",
+    "Data": {
+      "Protein": 15.6,
+      "Carbohydrate": 0.485,
+      "Fat.Total Lipid": 0.801,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.522,
+        "Magnesium": 22.5,
+        "Potassium": 146,
+        "Zinc": 0.937,
+        "Calcium": 64.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, cod, Atlantic, wild caught, raw",
+    "Data": {
+      "Protein": 16.1,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 0.668,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.065,
+        "Magnesium": 18.0,
+        "Potassium": 245,
+        "Zinc": 0.305,
+        "Calcium": 6.59
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fish, catfish, farm raised, raw",
+    "Data": {
+      "Protein": 16.5,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 7.31,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 20.6,
+        "Potassium": 292,
+        "Zinc": 0.475,
+        "Calcium": 7.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": false,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",
+    "Data": {
+      "Protein": 18.6,
+      "Carbohydrate": 0.0,
+      "Fat.Total Lipid": 0.808,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.632,
+        "Magnesium": 43.1,
+        "Potassium": 235,
+        "Zinc": 3.48,
+        "Calcium": 111
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Squash, summer, green, zucchini, includes skin, raw",
+    "Data": {
+      "Protein": 0.984,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0.205,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.194,
+        "Magnesium": 15.3,
+        "Potassium": 226,
+        "Zinc": 0.26,
+        "Calcium": 20.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Squash, summer, yellow, includes skin, raw",
+    "Data": {
+      "Protein": 0.891,
+      "Carbohydrate": 0,
+      "Fat.Total Lipid": 0.135,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.137,
+        "Magnesium": 16.8,
+        "Potassium": 220,
+        "Zinc": 0.203,
+        "Calcium": 22.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Squash, winter, butternut, raw",
+    "Data": {
+      "Protein": 1.15,
+      "Carbohydrate": 10.5,
+      "Fat.Total Lipid": 0.168,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.213,
+        "Magnesium": 15.0,
+        "Potassium": 329,
+        "Zinc": 0.193,
+        "Calcium": 21.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Squash, winter, acorn, raw",
+    "Data": {
+      "Protein": 1.25,
+      "Carbohydrate": 10.5,
+      "Fat.Total Lipid": 0.182,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.308,
+        "Magnesium": 23.8,
+        "Potassium": 332,
+        "Zinc": 0.294,
+        "Calcium": 24.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cabbage, bok choy, raw",
+    "Data": {
+      "Protein": 1.02,
+      "Carbohydrate": 3.51,
+      "Fat.Total Lipid": 0.234,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.439,
+        "Magnesium": 13.6,
+        "Potassium": 228,
+        "Zinc": 0.274,
+        "Calcium": 61.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Cauliflower, raw",
+    "Data": {
+      "Protein": 1.64,
+      "Carbohydrate": 4.72,
+      "Fat.Total Lipid": 0.238,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.334,
+        "Magnesium": 14.2,
+        "Potassium": 274,
+        "Zinc": 0.234,
+        "Calcium": 20.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Collards, raw",
+    "Data": {
+      "Protein": 2.97,
+      "Carbohydrate": 7.02,
+      "Fat.Total Lipid": 0.77,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.75,
+        "Magnesium": 49.5,
+        "Potassium": 410,
+        "Zinc": 0.459,
+        "Calcium": 276
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Brussels sprouts, raw",
+    "Data": {
+      "Protein": 3.98,
+      "Carbohydrate": 9.62,
+      "Fat.Total Lipid": 0.565,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.73,
+        "Magnesium": 25.0,
+        "Potassium": 477,
+        "Zinc": 0.366,
+        "Calcium": 38.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Beets, raw",
+    "Data": {
+      "Protein": 1.69,
+      "Carbohydrate": 8.79,
+      "Fat.Total Lipid": 0.302,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.428,
+        "Magnesium": 21.0,
+        "Potassium": 342,
+        "Zinc": 0.31,
+        "Calcium": 13.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Eggplant, raw",
+    "Data": {
+      "Protein": 0.852,
+      "Carbohydrate": 5.4,
+      "Fat.Total Lipid": 0.12,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 13.5,
+        "Potassium": 222,
+        "Zinc": 0.119,
+        "Calcium": 11.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomatoes, whole, canned, solids and liquids, with salt added",
+    "Data": {
+      "Protein": 0.868,
+      "Carbohydrate": 4.29,
+      "Fat.Total Lipid": 0.206,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.929,
+        "Magnesium": 10.8,
+        "Potassium": 203,
+        "Zinc": 0.12,
+        "Calcium": 19.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomato, sauce, canned, with salt added",
+    "Data": {
+      "Protein": 1.35,
+      "Carbohydrate": 6.33,
+      "Fat.Total Lipid": 0.382,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.11,
+        "Magnesium": 18.7,
+        "Potassium": 356,
+        "Zinc": 0.183,
+        "Calcium": 17.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomato, paste, canned, without salt added",
+    "Data": {
+      "Protein": 4.23,
+      "Carbohydrate": 20.2,
+      "Fat.Total Lipid": 0.732,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.18,
+        "Magnesium": 49.6,
+        "Potassium": 972,
+        "Zinc": 0.511,
+        "Calcium": 36.8
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomatoes, crushed, canned",
+    "Data": {
+      "Protein": 1.44,
+      "Carbohydrate": 7.14,
+      "Fat.Total Lipid": 0.398,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.27,
+        "Magnesium": 18.6,
+        "Potassium": 346,
+        "Zinc": 0.201,
+        "Calcium": 19.2
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Tomato, puree, canned",
+    "Data": {
+      "Protein": 1.58,
+      "Carbohydrate": 8.04,
+      "Fat.Total Lipid": 0.265,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.24,
+        "Magnesium": 19.3,
+        "Potassium": 416,
+        "Zinc": 0.208,
+        "Calcium": 17.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Apricot, with skin, raw",
+    "Data": {
+      "Protein": 0.961,
+      "Carbohydrate": 10.2,
+      "Fat.Total Lipid": 0.405,
+      "Vitamins": {
+        "Vitamin C": 3.07
+      },
+      "Major Minerals": {
+        "Iron": 0.163,
+        "Magnesium": 8.88,
+        "Potassium": 231,
+        "Zinc": 0.148,
+        "Calcium": 11.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Melons, honeydew, raw",
+    "Data": {
+      "Protein": 0.531,
+      "Carbohydrate": 8.15,
+      "Fat.Total Lipid": 0.216,
+      "Vitamins": {
+        "Vitamin C": 15.7
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 9.5,
+        "Potassium": 209,
+        "Zinc": 0.06,
+        "Calcium": 6.58
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": false,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Plantains, ripe, raw",
+    "Data": {
+      "Protein": 1.16,
+      "Carbohydrate": 31.0,
+      "Fat.Total Lipid": 0.893,
+      "Vitamins": {
+        "Vitamin C": 20.1
+      },
+      "Major Minerals": {
+        "Iron": 0.319,
+        "Magnesium": 33.9,
+        "Potassium": 396,
+        "Zinc": 0.147,
+        "Calcium": 3.82
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Plantains, underripe, raw",
+    "Data": {
+      "Protein": 1.23,
+      "Carbohydrate": 33.6,
+      "Fat.Total Lipid": 0.685,
+      "Vitamins": {
+        "Vitamin C": 18.5
+      },
+      "Major Minerals": {
+        "Iron": 0.334,
+        "Magnesium": 29.5,
+        "Potassium": 406,
+        "Zinc": 0.185,
+        "Calcium": 4.83
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Chia seeds, dry, raw",
+    "Data": {
+      "Protein": 17.0,
+      "Carbohydrate": 38.3,
+      "Fat.Total Lipid": 32.9,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 6.04,
+        "Magnesium": 326,
+        "Potassium": 642,
+        "Zinc": 5.56,
+        "Calcium": 595
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Bulgur, dry, raw",
+    "Data": {
+      "Protein": 11.8,
+      "Carbohydrate": 75.9,
+      "Fat.Total Lipid": 2.42,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.62,
+        "Magnesium": 119,
+        "Potassium": 358,
+        "Zinc": 2.15,
+        "Calcium": 34.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Wild rice, dry, raw",
+    "Data": {
+      "Protein": 12.8,
+      "Carbohydrate": 75.7,
+      "Fat.Total Lipid": 1.7,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.53,
+        "Magnesium": 108,
+        "Potassium": 299,
+        "Zinc": 5.84,
+        "Calcium": 7.97
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Arugula, baby, raw",
+    "Data": {
+      "Protein": 1.65,
+      "Carbohydrate": 5.37,
+      "Fat.Total Lipid": 0.325,
+      "Vitamins": {
+        "Vitamin C": 101
+      },
+      "Major Minerals": {
+        "Iron": 1.39,
+        "Magnesium": 42.6,
+        "Potassium": 407,
+        "Zinc": 0.348,
+        "Calcium": 204
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Asparagus, green, raw",
+    "Data": {
+      "Protein": 1.44,
+      "Carbohydrate": 5.1,
+      "Fat.Total Lipid": 0.216,
+      "Vitamins": {
+        "Vitamin C": 9.15
+      },
+      "Major Minerals": {
+        "Iron": 0.444,
+        "Magnesium": 13.8,
+        "Potassium": 278,
+        "Zinc": 0.596,
+        "Calcium": 20.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Avocado, Hass, peeled, raw",
+    "Data": {
+      "Protein": 1.81,
+      "Carbohydrate": 8.32,
+      "Fat.Total Lipid": 20.3,
+      "Vitamins": {
+        "Vitamin C": 0.0
+      },
+      "Major Minerals": {
+        "Iron": 0.613,
+        "Magnesium": 32.8,
+        "Potassium": 576,
+        "Zinc": 0.46,
+        "Calcium": 14.5
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": true,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Rice, black, unenriched, raw",
+    "Data": {
+      "Protein": 7.57,
+      "Carbohydrate": 77.2,
+      "Fat.Total Lipid": 3.44,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.12,
+        "Magnesium": 113,
+        "Potassium": 256,
+        "Zinc": 1.72,
+        "Calcium": 14.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Corn, sweet, yellow and white kernels, \u00a0fresh, raw",
+    "Data": {
+      "Protein": 2.79,
+      "Carbohydrate": 14.7,
+      "Fat.Total Lipid": 1.63,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 0.388,
+        "Magnesium": 25.8,
+        "Potassium": 237,
+        "Zinc": 0.556,
+        "Calcium": 0.656
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Einkorn, grain, dry, raw",
+    "Data": {
+      "Protein": 15.1,
+      "Carbohydrate": 68.7,
+      "Fat.Total Lipid": 3.81,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.69,
+        "Magnesium": 140,
+        "Potassium": 432,
+        "Zinc": 5.23,
+        "Calcium": 41.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Farro, pearled, dry, raw",
+    "Data": {
+      "Protein": 12.6,
+      "Carbohydrate": 72.1,
+      "Fat.Total Lipid": 3.1,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.2,
+        "Magnesium": 119,
+        "Potassium": 385,
+        "Zinc": 3.97,
+        "Calcium": 25.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Fonio, grain, dry, raw",
+    "Data": {
+      "Protein": 7.17,
+      "Carbohydrate": 81.3,
+      "Fat.Total Lipid": 1.69,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.66,
+        "Magnesium": 39.1,
+        "Potassium": 43.8,
+        "Zinc": 1.85,
+        "Calcium": 11.6
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Khorasan, grain, dry, raw",
+    "Data": {
+      "Protein": 14.8,
+      "Carbohydrate": 71.8,
+      "Fat.Total Lipid": 2.8,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.87,
+        "Magnesium": 130,
+        "Potassium": 450,
+        "Zinc": 4.46,
+        "Calcium": 24.1
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Kiwifruit (kiwi), green, peeled, raw",
+    "Data": {
+      "Protein": 1.01,
+      "Carbohydrate": 13.8,
+      "Fat.Total Lipid": 0.64,
+      "Vitamins": {
+        "Vitamin C": 58.8
+      },
+      "Major Minerals": {
+        "Iron": 0.037,
+        "Magnesium": 14.8,
+        "Potassium": 302,
+        "Zinc": 0.455,
+        "Calcium": 24.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mandarin, seedless, peeled, raw",
+    "Data": {
+      "Protein": 1.04,
+      "Carbohydrate": 13.4,
+      "Fat.Total Lipid": 0.458,
+      "Vitamins": {
+        "Vitamin C": 21.2
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 12.6,
+        "Potassium": 167,
+        "Zinc": 0.069,
+        "Calcium": 44.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mango, Tommy Atkins, peeled, raw",
+    "Data": {
+      "Protein": 0.562,
+      "Carbohydrate": 15.3,
+      "Fat.Total Lipid": 0.572,
+      "Vitamins": {
+        "Vitamin C": 25.5
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 10.3,
+        "Potassium": 165,
+        "Zinc": 0.066,
+        "Calcium": 12.4
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Mango, Ataulfo, peeled, raw",
+    "Data": {
+      "Protein": 0.688,
+      "Carbohydrate": 17.4,
+      "Fat.Total Lipid": 0.681,
+      "Vitamins": {
+        "Vitamin C": 168
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 10.6,
+        "Potassium": 204,
+        "Zinc": 0.102,
+        "Calcium": 10.0
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Corn flour, masa harina, white or yellow, dry, raw",
+    "Data": {
+      "Protein": 7.56,
+      "Carbohydrate": 76.7,
+      "Fat.Total Lipid": 4.34,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.7,
+        "Magnesium": 93.3,
+        "Potassium": 277,
+        "Zinc": 1.62,
+        "Calcium": 112
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Pear, Anjou, green, with skin, raw",
+    "Data": {
+      "Protein": 0.312,
+      "Carbohydrate": 14.8,
+      "Fat.Total Lipid": 0.371,
+      "Vitamins": {
+        "Vitamin C": 5.51
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 6.49,
+        "Potassium": 122,
+        "Zinc": 0.107,
+        "Calcium": 9.99
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Plum, black, with skin, raw",
+    "Data": {
+      "Protein": 0.578,
+      "Carbohydrate": 13.5,
+      "Fat.Total Lipid": 0.282,
+      "Vitamins": {
+        "Vitamin C": 1.82
+      },
+      "Major Minerals": {
+        "Iron": 0.0,
+        "Magnesium": 6.62,
+        "Potassium": 186,
+        "Zinc": 0.045,
+        "Calcium": 4.03
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": true,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Rice, red, unenriched, dry, raw",
+    "Data": {
+      "Protein": 8.56,
+      "Carbohydrate": 76.2,
+      "Fat.Total Lipid": 3.44,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 1.2,
+        "Magnesium": 126,
+        "Potassium": 245,
+        "Zinc": 2.56,
+        "Calcium": 9.22
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sorghum bran, white, unenriched, dry, raw",
+    "Data": {
+      "Protein": 11.2,
+      "Carbohydrate": 68.7,
+      "Fat.Total Lipid": 9.26,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 14.2,
+        "Magnesium": 274,
+        "Potassium": 852,
+        "Zinc": 4.4,
+        "Calcium": 61.7
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sorghum flour, white, pearled, unenriched, dry, raw",
+    "Data": {
+      "Protein": 10.2,
+      "Carbohydrate": 73.5,
+      "Fat.Total Lipid": 3.24,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.22,
+        "Magnesium": 107,
+        "Potassium": 274,
+        "Zinc": 1.32,
+        "Calcium": 7.89
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sorghum grain, white, pearled, unenriched, dry, raw",
+    "Data": {
+      "Protein": 10.2,
+      "Carbohydrate": 74.9,
+      "Fat.Total Lipid": 3.26,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 2.04,
+        "Magnesium": 109,
+        "Potassium": 274,
+        "Zinc": 1.28,
+        "Calcium": 7.45
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Sorghum, whole grain, white, dry, raw",
+    "Data": {
+      "Protein": 10.1,
+      "Carbohydrate": 73.6,
+      "Fat.Total Lipid": 4.22,
+      "Vitamins": {},
+      "Major Minerals": {
+        "Iron": 3.9,
+        "Magnesium": 136,
+        "Potassium": 367,
+        "Zinc": 1.77,
+        "Calcium": 14.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": true,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  },
+  {
+    "Description": "Plantains, overripe, raw",
+    "Data": {
+      "Protein": 1.17,
+      "Carbohydrate": 29.2,
+      "Fat.Total Lipid": 0.99,
+      "Vitamins": {
+        "Vitamin C": 19.1
+      },
+      "Major Minerals": {
+        "Iron": 0.315,
+        "Magnesium": 31.7,
+        "Potassium": 408,
+        "Zinc": 0.149,
+        "Calcium": 3.9
+      }
+    },
+    "DietaryTags": {
+      "LowCarb": false,
+      "HighProtein": false,
+      "Vegetarian": true,
+      "Vegan": true,
+      "Keto": false,
+      "GlutenFree": true
+    }
+  }
+]

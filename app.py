@@ -4,8 +4,11 @@ from flask import Flask, redirect, request, jsonify, render_template, session
 from flask_session import Session
 import json
 import os
-from transformers import pipeline
 from dotenv import load_dotenv
+import re
+from collections import defaultdict, Counter
+import math
+from werkzeug.security import generate_password_hash, check_password_hash
 
 load_dotenv()
 app = Flask(__name__)
@@ -13,8 +16,6 @@ app = Flask(__name__)
 app.config['SESSION_PERMANENT'] = os.getenv('SESSION_PERMANENT')
 app.config['SESSION_TYPE'] = os.getenv('SESSION_TYPE')
 Session(app)
-
-chatbot_model = pipeline("text-generation", model="gpt2" , tokenizer="gpt2")
 
 def initdb():
     with sqlite3.connect("./meow.sqlite") as dbconn:
@@ -36,10 +37,9 @@ def home():
 @app.route("/login", methods=["POST", "GET"])
 def login():
     if request.method == "POST":
+        username = request.form.get("name", None)
+        password = request.form.get("pass", None)
 
-        session["name"] = request.form.get("name")
-        username = request.form.get("name" , None)
-        password = request.form.get("pass" , None)
         with sqlite3.connect("./meow.sqlite") as dbconn:
             dbconn.execute("""
             CREATE TABLE IF NOT EXISTS login(
@@ -47,18 +47,56 @@ def login():
                 password TEXT
             )
             """)
-            dbconn.execute("""
-            INSERT INTO login
-            VALUES (?,?)
-            """, (username,password))
-            dbconn.commit()
-        return redirect("/")
+
+            cursor = dbconn.cursor()
+            cursor.execute("SELECT password FROM login WHERE username = ?", (username,))
+            row = cursor.fetchone()
+
+            if row:
+                stored_hashed_pw = row[0]
+                if check_password_hash(stored_hashed_pw, password):
+                    session["name"] = username
+                    return redirect("/")
+                else:
+                    return "Invalid username or password", 403
+            else:
+                hashed_pw = generate_password_hash(password)
+                dbconn.execute("INSERT INTO login (username, password) VALUES (?, ?)", (username, hashed_pw))
+                session["name"] = username
+                dbconn.commit()
+                return redirect("/")
+
     return render_template("login.html")
+
 
 @app.route("/logout")
 def logout():
     session["name"] = None
     return redirect("/")
+
+def tokenize(text):
+    return re.findall(r'\b\w+\b' , text.lower())
+
+def buildBigram(tokens):
+    return [(tokens[i] , tokens[i+ 1]) for i in range(len(tokens) - 1)]
+
+def bigramProb(text):
+    tokens = tokenize(text)
+    bigrams = buildBigram(tokens)
+    bigramCounts = Counter(bigrams)
+    unigramCounts = Counter(tokens)
+    vocabSize = len(set(tokens))
+
+    probs = {}
+    for bigram in bigramCounts:
+        first = bigram[0]
+        probs[bigram] = (bigramCounts[bigram] + 1) / (unigramCounts[first] + vocabSize)
+    for wi in unigramCounts:
+        for wj in unigramCounts:
+            bg = (wi, wj)
+            if bg not in probs:
+                probs[bg] = 1 / (unigramCounts[wi] + vocabSize)
+    return probs
 
 # POST request
 @app.route("/personalization", methods=['GET','POST'])
@@ -123,81 +161,113 @@ def remember():
     else:
         return jsonify({"error": "Unauthorized"}), 401
 
-# although this is a POST method, this is primarily used for the chatbot 
-@app.route('/recommend' , methods=['POST'])
+def buildResponse(meal, vitamins, minerals):
+    desc = meal.get("Description", "This meal")
+    data = meal.get("Data", {})
+    protein = data.get("Protein", 0)
+    carbs = data.get("Carbohydrate", 0)
+    fats = data.get("Fat.Total Lipid", 0)
+
+    vitList = ', '.join(vitamins) if vitamins else "essential vitamins"
+    minList = ', '.join(minerals) if minerals else "important minerals"
+
+    summaries = [
+        f"{desc} is rich in nutrients and provides {protein}g of protein, {carbs}g of carbs, and {fats}g of fat. It's ideal for those needing {vitList} and {minList}.",
+        f"{desc} offers {protein}g of protein and supports diets rich in {vitList} and {minList}. It's a great choice for balanced nutrition.",
+        f"With {protein}g of protein, {carbs}g carbs, and {fats}g fat, {desc} supports a balanced diet and contributes to your {vitList} and {minList} intake.",
+        f"{desc} contains about {protein}g protein, {carbs}g carbs, and {fats}g fat. It’s a suitable meal for those seeking nutrients like {vitList} and {minList}.",
+    ]
+
+    def ppl(text):
+        tokens = tokenize(text)
+        bigrams = buildBigram(tokens)
+        probs = bigramProb(text)
+        logProbSum = 0
+        for bigram in bigrams:
+            prob = probs.get(bigram, 1e-8)
+            logProbSum += math.log2(prob)
+        avgLogProb = logProbSum / len(bigrams) if bigrams else 0
+        return 2 ** (-avgLogProb)
+
+    bestSummary = min(summaries, key=ppl)
+    return bestSummary
+
+@app.route('/recommend', methods=['POST'])
 def getRecommendation():
-    if request.method=='POST':
+    if request.method == 'POST':
         foodRequest = request.get_json()
-        food = foodRequest.get("food" , "").lower()
-        vitamin = foodRequest.get("vitamins" , None)
-        mineral = foodRequest.get("minerals" , None)
+        food = foodRequest.get("food", "").lower()
+        vitamin = foodRequest.get("vitamins", [])
+        mineral = foodRequest.get("minerals", [])
+        dietPrefs = foodRequest.get("diet", [])
         protein = foodRequest.get("protein", 0)
-        carbs = foodRequest.get("carbs" , 0)
+        carbs = foodRequest.get("carbs", 0)
         fats = foodRequest.get("fats", 0)
-        calories = (4 * carbs) + (4 * protein) + (9 * fats)
-        vitamin_map = {
-            "A": "Vitamin A - RAE",
-            "B12": "Vitamin B12",
-            "C": "Vitamin C",
-            "D": "Vitamin D",
-            "E": "Vitamin E",
-            "K": "Vitamin K",
+
+        vitaminMap = {
+            "A": "Vitamin A - RAE", "B12": "Vitamin B12", "C": "Vitamin C",
+            "D": "Vitamin D", "E": "Vitamin E", "K": "Vitamin K"
         }
-        mineral_map = {
-            "Calcium": "Calcium",
-            "Magnesium": "Magnesium",
-            "Iron": "Iron",
-            "Zinc": "Zinc",
-            "Potassium": "Potassium",
+        mineralMap = {
+            "Calcium": "Calcium", "Magnesium": "Magnesium", "Iron": "Iron",
+            "Zinc": "Zinc", "Potassium": "Potassium"
         }
-        vitamin_keys = [f"Data.Vitamins.{vitamin_map.get(v, v)}" for v in vitamin] if vitamin else []
-        mineral_keys = [f"Data.Major Minerals.{mineral_map.get(m, m)}" for m in mineral] if mineral else []
+
         foodData = loadData()
         if not isinstance(foodData, list):
             return jsonify({"error": "Data format is incorrect"}), 500
-        filteredMeals = [
-        item for item in foodData
-        if (food in item.get("Description", "").lower()) and
-        (item.get("calories", 0) <= calories) and
-        (any(item.get(v, 0) > 0 for v in vitamin_keys) if vitamin_keys else True) and
-        (any(item.get(m, 0) > 0 for m in mineral_keys) if mineral_keys else True) and
-        (item.get("Data.Protein", 0) >= protein) and
-        (item.get("Data.Carbohydrate", 0) <= carbs) and
-        (item.get("Data.Fat.Total Lipid", 0) <= fats)
-    ]
-        if not filteredMeals:
-            return jsonify({"message": "No meals found matching your criteria"}), 404
-        for meal in filteredMeals:
-            meal_description = f"{meal['Description']} is high in {', '.join(vitamin) if vitamin else 'various vitamins'} and {', '.join(mineral) if mineral else 'various minerals'}."
 
-            # Advanced Prompt Engineering (Example)
-            prompt = f"""
-            You are a registered dietitian. Explain why {meal['Description']} is a good meal choice, considering it is high in {', '.join(vitamin) if vitamin else 'various vitamins'} and {', '.join(mineral) if mineral else 'various minerals'}.  Be concise.
-            """
+        scoredMeals = []
 
-            try:
-                response = chatbot_model(
-                    prompt,
-                    max_length=100,  # Adjust as needed
-                    do_sample=True,
-                    temperature=0.7,  # Adjust as needed
-                    top_k=30,      # Adjust as needed
-                    top_p=0.95,     # Adjust as needed
-                    repetition_penalty=1.1 # Adjust as needed
-                )
+        for item in foodData:
+            score = 0
+            desc = item.get("Description", "").lower()
+            tags = item.get("DietaryTags", {})
 
-                # Correct way to access the generated text:
-                aiResponse = response[0]['generated_text'].strip()  # Crucial change
+            # Normalize and enforce diet tag filtering
+            if dietPrefs:
+                selectedDiet = dietPrefs[0] if isinstance(dietPrefs, list) else dietPrefs
+                normalizedDiet = selectedDiet.strip().lower().capitalize()
+                if not tags.get(normalizedDiet, False):
+                    continue
 
-                meal["ai_explanation"] = aiResponse
+            # Ingredient match
+            if food and food in desc:
+                score += 10
 
-            except Exception as e:
-                print(f"GPT-2 Error for {meal['Description']}: {e}")  # More informative error message
-                meal["ai_explanation"] = meal_description
+            # Vitamin scoring
+            score += sum(
+                1 for v in vitamin
+                if item.get("Data", {}).get("Vitamins", {}).get(vitaminMap.get(v, v), 0) > 0
+            )
 
-        return jsonify({"meals": filteredMeals}), 200
-    else:
-        return jsonify({"error":"Incorrect HTTP method."}), 401 
-    
+            # Mineral scoring
+            score += sum(
+                1 for m in mineral
+                if item.get("Data", {}).get("Major Minerals", {}).get(mineralMap.get(m, m), 0) > 0
+            )
+
+            # Macronutrient scoring
+            if item.get("Data", {}).get("Protein", 0) >= protein:
+                score += 3
+            if item.get("Data", {}).get("Carbohydrate", 0) <= carbs:
+                score += 2
+            if item.get("Data", {}).get("Fat.Total Lipid", 0) <= fats:
+                score += 2
+
+            if score > 0:
+                item["score"] = score
+                item["explanation"] = buildResponse(item, vitamin, mineral)
+                scoredMeals.append(item)
+
+        if scoredMeals:
+            topMeals = sorted(scoredMeals, key=lambda x: x["score"], reverse=True)[:3]
+            return jsonify({"meals": topMeals}), 200
+        else:
+            return jsonify({"message": "No suitable meals found."}), 404
+
+    return jsonify({"error": "Incorrect HTTP method."}), 401
+
+
 if __name__== '__main__':
-    app.run(debug=True)
+   app.run(host='0.0.0.0', port=5000)
